@@ -1,0 +1,63 @@
+name: Leadership Task
+description: Track organizational tasks for Open Neuromorphic leadership team
+title: "[Task] <Concise task title>"
+labels: ["leadership", "task", "priority"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🧠 Open Neuromorphic Leadership Task
+
+  - type: input
+    id: summary
+    attributes:
+      label: Task Summary
+      description: Briefly describe the task or initiative.
+      placeholder: e.g., Organize virtual seminar on neuromorphic investment
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context & Objectives
+      description: Why is this task important? How does it align with ONM’s goals?
+      placeholder: e.g., Increase community engagement by hosting high-profile speakers...
+
+  - type: input
+    id: due
+    attributes:
+      label: Due Date
+      description: When should this be completed by? (Optional)
+      placeholder: YYYY-MM-DD
+
+  - type: input
+    id: owner
+    attributes:
+      label: Responsible Lead(s)
+      description: Who is responsible for completing or coordinating this task?
+      placeholder: e.g., @username
+
+  - type: textarea
+    id: subtasks
+    attributes:
+      label: Subtasks / Action Items
+      description: Use this to track major steps or milestones.
+      placeholder: |
+        - [ ] Reach out to potential speakers
+        - [ ] Finalize event date
+        - [ ] Draft promotional material
+
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Dependencies or Blockers
+      description: Anything that could prevent this from moving forward?
+      placeholder: e.g., Waiting on budget approval, speaker confirmation, etc.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information or helpful links.
+      placeholder: e.g., Past similar events, Discord message threads, etc.
