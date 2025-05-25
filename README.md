@@ -4,7 +4,7 @@ This repository is used to coordinate tasks and responsibilities among Open Neur
 
 ## 🌐 Confluence Page
 
-For detailed documentation, meeting notes, and collaborative planning, visit our [Confluence page](https://open-neuromorphic.atlassian.net/wiki/home).
+For detailed documentation, meeting notes, and collaborative planning, visit our [Confluence page]([https://open-neuromorphic.atlassian.net/wiki/home](https://open-neuromorphic.atlassian.net/wiki/spaces/Strategy/overview)).
 
 ## ✅ Task Tagging Guide
 
