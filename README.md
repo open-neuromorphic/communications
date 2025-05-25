@@ -6,13 +6,40 @@ This repository is used to coordinate tasks and responsibilities among Open Neur
 
 For detailed documentation, meeting notes, and collaborative planning, visit our [Confluence page](https://open-neuromorphic.atlassian.net/wiki/home).
 
+## 🎯 2025 Strategic Initiatives
+
+Aligned with our [2025 Strategic Initiatives](https://open-neuromorphic.atlassian.net/wiki/spaces/Strategy/pages/131285/ONM+Strategic+Initiatives+2025), every issue should be tagged with at least one of the following initiative labels:
+
+| Label                     | Description |
+|---------------------------|-------------|
+| `community-engagement`    | Organizing workshops, hacking hours, or public-facing initiatives to strengthen community bonds |
+| `open-source-dev`         | Contributions to shared codebases, documentation, or tooling supporting the ONM open-source ecosystem |
+| `educational-outreach`    | Tutorials, talks, or learning materials for students and practitioners entering neuromorphic computing |
+| `infrastructure`          | Work that improves internal systems, coordination tools, or long-term sustainability of our platforms |
+| `strategic-partnerships`  | Activities related to funding, collaborations, or partnerships that advance ONM’s mission |
+| `research-coordination`   | Tracking collaborative research efforts, shared datasets, and knowledge transfer |
+
+These initiative labels help align tasks with ONM's long-term goals.
+
 ## ✅ Task Tagging Guide
 
-When creating a new issue, **always tag it appropriately** for clarity and sorting. Use the following tags where applicable:
+When creating issues, apply both a **platform** and an **initiative** tag.
+
+### Platform Tags
 
 | Tag           | Description |
 |---------------|-------------|
-| `example tag`     | Tasks related to example tag|
+| `discord`     | Discord management tasks |
+| `linkedin`    | LinkedIn content and updates |
+| `youtube`     | YouTube content management |
+| `blog`        | Blog post creation and editing |
+| `neuroPAC`    | NeuroPAC initiative tasks |
+| `email`       | Email newsletter and announcements |
+| `website`     | Website updates and maintenance |
+| `x`           | X (formerly Twitter) related tasks |
+| `video`       | Video content creation and editing |
+| `infra`       | Infrastructure and tooling tasks |
+| `admin`       | Administrative and organizational tasks |
 
 
 
