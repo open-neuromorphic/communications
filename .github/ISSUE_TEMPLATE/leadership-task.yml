@@ -10,13 +10,6 @@ body:
       value: |
         ## 🧠 Open Neuromorphic Leadership Task
 
-  - type: input
-    id: summary
-    attributes:
-      label: Task Summary
-      description: Briefly describe the task or initiative.
-      placeholder: e.g., Organize virtual seminar on neuromorphic investment
-
   - type: textarea
     id: context
     attributes:
