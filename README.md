@@ -2,6 +2,10 @@
 
 This repository is used to coordinate tasks and responsibilities among Open Neuromorphic leadership. It helps streamline work, ensure accountability, and synchronize updates across our various communication channels.
 
+## 🌐 Confluence Page
+
+For detailed documentation, meeting notes, and collaborative planning, visit our [Confluence page](https://open-neuromorphic.atlassian.net/wiki/home).
+
 ## ✅ Task Tagging Guide
 
 When creating a new issue, **always tag it appropriately** for clarity and sorting. Use the following tags where applicable:
