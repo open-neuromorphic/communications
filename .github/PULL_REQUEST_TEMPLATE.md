@@ -9,8 +9,6 @@ _Provide a brief summary of the changes or additions in this pull request._
 
 ---
 
-## 📂 Related Issues
-
 _Reference any related issues or tasks._
 
 - Closes #
