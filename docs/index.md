@@ -15,7 +15,7 @@ Fellows are:
 - Leaders of key initiatives
 - Stewards of our open, inclusive community
 
-👉 [Browse the Fellowship Directory](./fellowship_directory.md)
+👉 [Browse the Fellowship Directory](./fellowship/fellowship_directory.md)
 
 ---
 

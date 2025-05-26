@@ -7,9 +7,9 @@ This page lists all recognized ONM Fellows and the initiatives they are currentl
 ## 🧠 @Daniel Rosen
 
 **Accountable Initiatives:**
-- [Internal Tools Improvement](./internal-tools-improvement.md)
-- [Systematic Task Completion Methods](./systematic-task-completion.md)
-- [Strategy Rollout](./strategy-rollout.md)
+- [Internal Tools Improvement](../initiatives/internal_tools_improvement.md)
+- [Systematic Task Completion Methods](../initiatives/systematic_task_completion.md)
+- [Strategy Rollout](../initiatives/strategy_rollout.md)
 
 ---
 
