@@ -1,6 +1,6 @@
 name: Leadership Task
 description: Track organizational tasks for Open Neuromorphic leadership team
-title: "[Task] <Concise task title>"
+title: "<Concise task title>"
 labels: ["leadership", "task", "priority"]
 assignees: []
 
