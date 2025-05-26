@@ -56,7 +56,7 @@ Include a hypothesis: _“We believe X will result in Y, and we’ll know we’v
 
 | Date       | Update Summary                      | Author        |
 |------------|-------------------------------------|---------------|
-| YYYY-MM-DD | Example update                      | @username     |
+| 2025-05-25 | Example update                      | @username     |
 
 ---
 
