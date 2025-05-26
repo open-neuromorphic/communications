@@ -1,9 +1,3 @@
----
-title: Fellowship Proposal - [Your Name]
-date: 1234-56-778
-status: Pending Review
----
-
 # 🧑‍🔬 Fellowship Proposal: [Your Name]
 
 Thank you for your interest in becoming a Fellow of Open Neuromorphic! Please complete the following questionnaire and submit it as a pull request to the `/fellows/` directory.
