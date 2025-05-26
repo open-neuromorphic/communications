@@ -1,6 +1,6 @@
 ---
 title: Fellowship Proposal - [Your Name]
-date: YYYY-MM-DD
+date: 1234-56-778
 status: Pending Review
 ---
 
