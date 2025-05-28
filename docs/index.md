@@ -33,7 +33,7 @@ Each initiative page includes:
 - Assigned accountable Fellow(s)
 - Live updates and related GitHub issues
 
-👉 [Explore Active Initiatives](./initiatives/index.md)
+👉 [Explore Active Initiatives](./initiatives/onm_initiatives_by_pillar.md)
 
 ---
 
@@ -42,6 +42,6 @@ Each initiative page includes:
 Interested in contributing or becoming a Fellow?  
 Start by joining our discussions, contributing to an initiative, or proposing your own.
 
-👉 [Path to Fellowship](./path_to_fellowship.md)  
+👉 [Path to Fellowship](./fellowship/path_to_fellowship.md)  
 👉 [GitHub Repository](https://github.com/open-neuromorphic)  
 👉 [Join the Discord](https://discord.gg/openneuromorphic)
