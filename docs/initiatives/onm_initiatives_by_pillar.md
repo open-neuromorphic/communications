@@ -15,7 +15,7 @@ _No active initiatives listed yet._
 ## Pillar 3: Feedback & Interactivity
 #### Facilitate mutual communication between leadership and members
 ---
-- [Strategy Rollout](strategy-rollout.md)
+- [Strategy Rollout](strategy_rollout.md)
 
 ## Pillar 4: Website as Learning & Contribution Hub
 #### Leverage the open neuromorphic website as a centralized locus of the latest information on Neuromorphic Computing research
@@ -30,5 +30,5 @@ _No active initiatives listed yet._
 ## Pillar 6: Administrative Excellence
 #### Maximally utilize available technologies to foster efficiency, simplicity, and effectiveness in the ONM team's task completion
 ----
-- [Internal Tools Improvement](internal-tools-improvement.md)
-- [Systematic Task Completion Methods](systematic-task-completion.md)
+- [Internal Tools Improvement](internal_tools_improvement.md)
+- [Systematic Task Completion Methods](systematic_task_completion.md)
