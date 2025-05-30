@@ -20,7 +20,7 @@ _No active initiatives listed yet._
 ## Pillar 4: Website as Learning & Contribution Hub
 #### Leverage the open neuromorphic website as a centralized locus of the latest information on Neuromorphic Computing research
 ---
-- [Website Revitalization](website_revitaliztion.md)
+- [Website Revitalization](website_revitalization.md)
 
 ## Pillar 5: Self-Organizing Working Groups
 #### Stimulate engagement by creating small groups designed to handle specific facets of development of the ONM community
