@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # 👋 Welcome to the ONM Community Portal
 
 Open Neuromorphic (ONM) is a collaborative, community-driven effort to advance neuromorphic computing through open source projects, inclusive participation, and shared knowledge.
