@@ -33,7 +33,7 @@ Each initiative page includes:
 - Assigned accountable Fellow(s)
 - Live updates and related GitHub issues
 
-👉 [Explore Active Initiatives](./initiatives/onm_initiatives_by_pillar.md)
+👉 [Explore Active Initiatives](./initiatives/README.md)
 
 ---
 
