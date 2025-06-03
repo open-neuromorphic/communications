@@ -14,15 +14,19 @@
 
 ## 🎯 Objective
 
-Briefly describe what this initiative aims to accomplish and why it matters.
-To provide a platform for early/budding neuromorphic researchers to present their work 
+To provide a platform for early/late-stage neuromorphic student researchers to: 
+    * present their (published) work, thereby sharing their research and improving visibility
+    * conduct a highly engaging, knowledge sharing, honest, and critical discussion around a topic   
 
 ---
 
 ## 🧠 Problem Statement
 
 What problem is this initiative trying to solve?  
+How to help early/late-stage neuromorphic researchers to network, share, and learn from the wider ONM community?
+
 Include a hypothesis: _“We believe X will result in Y, and we’ll know we’ve succeeded if Z.”_
+We believe, holding Student Talks will result in  
 
 ---
 
@@ -38,8 +42,8 @@ Include a hypothesis: _“We believe X will result in Y, and we’ll know we’v
 
 | Category         | Description                                 |
 |------------------|---------------------------------------------|
-| Must Have        | Core requirements of the initiative         |
-| Nice to Have     | Optional features or stretch goals          |
+| 45-50 mins talk  | Core requirements of the initiative         |
+| 20 mins intro    | Optional features or stretch goals          |
 | Not in Scope     | What this initiative will not address       |
 
 ---
