@@ -26,31 +26,36 @@ What problem is this initiative trying to solve?
 How to help early/late-stage neuromorphic researchers to network, share, and learn from the wider ONM community?
 
 Include a hypothesis: _“We believe X will result in Y, and we’ll know we’ve succeeded if Z.”_
-We believe, holding Student Talks will result in  
+We believe, holding Student Talks will help accelerating neuromorphic research, and we'll know we've succeeded if attendance and frequency of Student Talks increase over time!   
 
 ---
 
 ## 🧾 Key Outcomes
 
-- Outcome 1  
-- Outcome 2  
-- Outcome 3  
+- Far and wider reach of ONM (especially in neuromorphic student community)  
+- Students would be able to disseminate their research, gain feedback, and network
+- In general, accelerate neuromorphic research, through discussions and knowledge sharing!
 
 ---
 
 ## 🗺️ Scope
 
-| Category         | Description                                 |
-|------------------|---------------------------------------------|
-| 45-50 mins talk  | Core requirements of the initiative         |
-| 20 mins intro    | Optional features or stretch goals          |
-| Not in Scope     | What this initiative will not address       |
+We will cover student talks on topics ranging from low-level neuromorphic hardware design to high-level neuromorphic software/algorithm design. 
+Please take a look at our [Goals & Operations doc](https://drive.google.com/file/d/1tFD7xWwX1cGx7gnNps7mUdGwN15Q6_BB/view) for more details. 
+The duration of student talks will be 1h 15mins, where a chunk of it will be used to deliver the talk, followed by discussion for the remaining time; refer the categories below:
+
+
+| Category         | Description                                               |
+|------------------|-----------------------------------------------------------|
+| 45-50 mins talk  | Regular student talk + QnA session                        |
+| 20 mins intro    | Introduction to a topic + Rich discussion/debate          |
+| Not in Scope     | What this initiative will not address                     |
 
 ---
 
 ## 🗓️ Timeline
 
-| Milestone              | Owner           | Deadline     | Status  |
+| Milestone              | Owner            | Deadline     | Status  |
 |------------------------|------------------|--------------|---------|
 | Example milestone      | @username        | YYYY-MM-DD   | ⏳      |
 | Final review           | @username        | YYYY-MM-DD   | ⏳      |
