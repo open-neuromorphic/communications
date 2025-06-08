@@ -18,35 +18,11 @@ body:
       placeholder: e.g., Increase community engagement by hosting high-profile speakers...
 
   - type: input
-    id: due
-    attributes:
-      label: Due Date
-      description: When should this be completed by? (Optional)
-      placeholder: YYYY-MM-DD
-
-  - type: input
     id: owner
     attributes:
       label: Responsible Lead(s)
       description: Who is responsible for completing or coordinating this task?
       placeholder: e.g., @username
-
-  - type: textarea
-    id: subtasks
-    attributes:
-      label: Subtasks / Action Items
-      description: Use this to track major steps or milestones.
-      placeholder: |
-        - [ ] Reach out to potential speakers
-        - [ ] Finalize event date
-        - [ ] Draft promotional material
-
-  - type: textarea
-    id: blockers
-    attributes:
-      label: Dependencies or Blockers
-      description: Anything that could prevent this from moving forward?
-      placeholder: e.g., Waiting on budget approval, speaker confirmation, etc.
 
   - type: textarea
     id: notes
