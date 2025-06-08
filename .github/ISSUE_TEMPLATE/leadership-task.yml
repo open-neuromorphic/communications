@@ -16,17 +16,3 @@ body:
       label: Context & Objectives
       description: Why is this task important? How does it align with ONM’s goals?
       placeholder: e.g., Increase community engagement by hosting high-profile speakers...
-
-  - type: input
-    id: owner
-    attributes:
-      label: Responsible Lead(s)
-      description: Who is responsible for completing or coordinating this task?
-      placeholder: e.g., @username
-
-  - type: textarea
-    id: notes
-    attributes:
-      label: Additional Notes
-      description: Any other relevant information or helpful links.
-      placeholder: e.g., Past similar events, Discord message threads, etc.
