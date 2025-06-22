@@ -128,8 +128,9 @@ with st.expander("📺 YouTube Subscribers"):
 with st.expander("💼 LinkedIn Followers"):
     try:
         # Placeholder: Replace with LinkedIn API or text file extract
-        linkedin_followers = 642  # Replace with API call result
-
+        linkedin_followers = 642  
+        
+        # TODO: Replace with API call result
         st.metric("LinkedIn Followers", format_number(linkedin_followers))
     except Exception as e:
         st.error(f"Error loading LinkedIn data: {e}")
