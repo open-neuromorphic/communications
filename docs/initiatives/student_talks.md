@@ -60,4 +60,4 @@ The duration of student talks will be 1h 15mins, where a chunk of it will be use
 
 ## 🔗 Reference Materials
 
-- [Discord Thread](#) -> "#student-talks channel
+- [Discord Thread](https://discord.com/invite/hUygPUdD8E) -> #student-talks channel
