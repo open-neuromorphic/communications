@@ -47,15 +47,14 @@ The duration of student talks will be 1h 15mins, where a chunk of it will be use
 |------------------|-----------------------------------------------------------|
 | 45-50 mins talk  | Regular student talk + QnA session                        |
 | 20 mins intro    | Introduction to a topic + Rich discussion/debate          |
-| Not in Scope     | What this initiative will not address                     |
 
 ---
 
 ## 🗒️ Updates Log
 
-| Date       | Update Summary                      | Author        |
-|------------|-------------------------------------|---------------|
-| 2025-06-29 | Added the student\_talks  iniative. | @R-Gaurav     |
+| Date       | Update Summary                        | Author        |
+|------------|---------------------------------------|---------------|
+| 2025-06-29 | Added the student\_talks  initiative. | @R-Gaurav     |
 
 ---
 
