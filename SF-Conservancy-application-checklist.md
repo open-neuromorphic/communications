@@ -1,8 +1,0 @@
-- [ ] 1. Submit an application for membership.
-- [ ] 2. Provide organization details.
-- [ ] 3. Include project goals and objectives.
-- [ ] 4. Outline the technical infrastructure.
-- [ ] 5. Describe community engagement plans.
-- [ ] 6. Share existing documentation and resources.
-- [ ] 7. Confirm project lead contact information.
-- [ ] 8. Include any additional information relevant to the application.
