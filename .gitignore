@@ -2,3 +2,5 @@
 **.env**
 test*
 **DS**
+.idea
+context.txt
