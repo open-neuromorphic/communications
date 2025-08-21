@@ -85,6 +85,6 @@ After review:
 ## Questions?
 
 Join us on the [ONM Discord](https://discord.gg/3dbSPeAZkk)!
-or email: [contact@open-neuromorphic.org](mailto:contact@open-neuromorphic.org)
+Join us on the [ONM Discord](https://discord.gg/3dbSPeAZkk)! or email: [contact@open-neuromorphic.org](mailto:contact@open-neuromorphic.org)
 
 We look forward to seeing your work!
