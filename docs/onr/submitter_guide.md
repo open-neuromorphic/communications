@@ -22,12 +22,9 @@ Submissions may take the form of:
 - **IEEE-formatted papers** (PDF)  
 - **Technical whitepapers** or overview documents (PDF or web-hosted)  
 
-Your project must:
-- Be publicly available in a Git repository (GitHub, GitLab, etc.)
-- Be released under a permissive open-source license (e.g., MIT, Apache 2.0, BSD)
-- Include basic documentation (README, install instructions, usage example)
+Your project must satisfy Open Neuromorphics [Definition of Open](../policies/open-definition.md)
 
-We especially encourage well-documented Jupyter notebooks that walk through core functionality, demonstrate reproducibility, or explain concepts interactively.
+We especially encourage well-documented Jupyter notebooks that walk through core functionality, demonstrate reproducibility, or explain concepts interactively.  Also, please try to submit source files of figures if possible.
 
 ---
 
