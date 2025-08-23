@@ -1,7 +1,61 @@
 # Open Neuromorphic Research Reviewer's Guide
 This document can be used as a reference for reviewers when considering submissions.
 
-## Core Principles:
+
+## 1. Reviewer Responsibilities
+
+As a reviewer for ONR, you're pivotal in ensuring the scientific integrity, transparency, and community value of submitted work. Your key responsibilities include:
+
+- **Maintain professionalism and integrity.** Uphold ethical standards by disclosing potential conflicts of interest.  
+   [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Scholarly_peer_review?utm_source=chatgpt.com)
+
+- **Engage constructively.** Frame your review as a collaborative, improvement-focused dialogue.
+
+- **Ensure transparency and reproducibility.** Evaluate whether all relevant code, data, parameters, and documentation are accessible and sufficient for replication.
+
+- **Adhere to OpenReview conventions.** This includes using correct "reader" settings for confidential or public comments, composing within the OpenReview review form, and understanding how reviews can be edited or revised.  
+   [oai_citation:1‡docs.openreview.net](https://docs.openreview.net/how-to-guides/submissions-comments-reviews-and-decisions?utm_source=chatgpt.com)
+
+## 2. Workflow on OpenReview
+
+###  Profile Setup
+1. **Update your OpenReview profile.** Ensure your name, email, affiliations, and research expertise fields are accurate. This aids matching your expertise to submissions.  
+    [oai_citation:2‡CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/CompleteYourORProfile?utm_source=chatgpt.com)
+
+###  Reviewer Assignment
+2. **Receive assignment notification.** You’ll see assigned papers in your OpenReview “Reviewer Console” or Task list. If you have a conflict or lack expertise, contact your Area Chair promptly.  
+    [oai_citation:3‡docs.openreview.net](https://docs.openreview.net/getting-started/frequently-asked-questions/will-reviewers-be-notified-of-their-assignments?utm_source=chatgpt.com)
+
+3. **Check for assignments.** OpenReview allows both automatic and manual assignments; some may prompt accept/reject.  
+    [oai_citation:4‡docs.openreview.net](https://docs.openreview.net/how-to-guides/paper-matching-and-assignment/how-to-do-automatic-assignments?utm_source=chatgpt.com)
+
+###  Writing Your Review
+4. **Submit your review.** Use the structured review form within OpenReview. You can include formatted text, mathematical notation, or equations.  
+    [oai_citation:5‡docs.openreview.net](https://docs.openreview.net/how-to-guides/submissions-comments-reviews-and-decisions?utm_source=chatgpt.com)
+
+5. **Review Revisions.** If enabled, you may edit your review before the deadline using the “Review Revision” feature.  
+    [oai_citation:6‡docs.openreview.net](https://docs.openreview.net/how-to-guides/submissions-comments-reviews-and-decisions?utm_source=chatgpt.com)
+
+## 3. Guidelines for Constructive Feedback
+
+When preparing your review, structure it thoughtfully:
+
+1. **Start with a concise summary** of the submission’s goals and major contributions.
+
+2. **Highlight strengths**—especially aspects like clarity, novelty, implementation, or open-science contributions.
+
+3. **Detail major issues**—focus on elements impacting reproducibility, methodology soundness, or clarity.
+
+4. **Offer actionable suggestions**—e.g., “Provide parameter settings used in simulations,” or “Deposit code in a version-controlled repository with DOI.”
+
+5. **Maintain clarity and tone**—be specific, respectful, and constructive throughout.  
+
+6. **Wrap up with a clear recommendation**, such as Accept or Revision.
+
+7. **Use confidential comments to ACs if needed**, for sensitive observations not appropriate for authors.\
+
+## 4. Review Criteria
+### Core Principles:
 Reviewers should be guided by the principles outlined in [this document](https://pmc.ncbi.nlm.nih.gov/articles/PMC4304228)
 
 **Principle 1**: I will sign my name to my review
@@ -13,7 +67,7 @@ Reviewers should be guided by the principles outlined in [this document](https:/
 **Principle 4**: I will be an ambassador for the practice of open science
 
 
-## Evaluation Rubric
+### Evaluation Rubric
 
 | **Category** | **Criteria** | **Reviewer Questions** |
 |--------------|-------------|---------------------|
@@ -29,14 +83,14 @@ Reviewers should be guided by the principles outlined in [this document](https:/
 ---
 
 
-## Reviewer Recommendation
+### Reviewer Recommendation
 
 - [ ] **Accept**
-- [ ] **Recommend Modifications**
+- [ ] **Reject with Recommended Modifications**
 
 ---
 
-## Reviewer Comments
+### Reviewer Comments
 
 Please provide brief, constructive feedback addressing:
 - Strengths of the submission
