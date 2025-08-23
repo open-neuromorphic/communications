@@ -51,12 +51,12 @@ To maintain our open-source mission, we require that contributions made through 
 For all ONM-hosted events (e.g., Student Talks, workshops, hacking hours):
 
 -   **Consent to Record:** Events will be recorded and made publicly available. Your attendance and active participation serve as consent to be recorded and for your contributions to be shared under the terms described above.
+-   **Consent Regarding Sponsorship:** Some ONM events or programs may be supported by sponsors. All speakers and key participants will be notified in advance if an event is sponsored. Participation in a sponsored event is strictly **opt-in**. We are committed to providing a space for all community members, and further details can be found in our **[Sponsorship Policy](./sponsorship_policy.md)**.
 
 ### How We Communicate This Policy
 
 This policy will be clearly communicated to participants via:
 -   Speaker agreement emails.
 -   Event registration pages.
--   Verbal announcements at the start of each event.
 
 If you have any questions or concerns about this policy, please contact the ONM leadership team before contributing.
