@@ -1,22 +1,7 @@
 # Open Neuromorphic Research Reviewer's Guide
 This document can be used as a reference for reviewers when considering submissions.
 
-
-## 1. Reviewer Responsibilities
-
-As a reviewer for ONR, you're pivotal in ensuring the scientific integrity, transparency, and community value of submitted work. Your key responsibilities include:
-
-- **Maintain professionalism and integrity.** Uphold ethical standards by disclosing potential conflicts of interest.  
-   [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Scholarly_peer_review?utm_source=chatgpt.com)
-
-- **Engage constructively.** Frame your review as a collaborative, improvement-focused dialogue.
-
-- **Ensure transparency and reproducibility.** Evaluate whether all relevant code, data, parameters, and documentation are accessible and sufficient for replication.
-
-- **Adhere to OpenReview conventions.** This includes using correct "reader" settings for confidential or public comments, composing within the OpenReview review form, and understanding how reviews can be edited or revised.  
-   [oai_citation:1‡docs.openreview.net](https://docs.openreview.net/how-to-guides/submissions-comments-reviews-and-decisions?utm_source=chatgpt.com)
-
-## 2. Workflow on OpenReview
+## 1. Workflow on OpenReview
 
 ###  Profile Setup
 1. **Update your OpenReview profile.** Ensure your name, email, affiliations, and research expertise fields are accurate. This aids matching your expertise to submissions.  
@@ -36,7 +21,7 @@ As a reviewer for ONR, you're pivotal in ensuring the scientific integrity, tran
 5. **Review Revisions.** If enabled, you may edit your review before the deadline using the “Review Revision” feature.  
     [oai_citation:6‡docs.openreview.net](https://docs.openreview.net/how-to-guides/submissions-comments-reviews-and-decisions?utm_source=chatgpt.com)
 
-## 3. Guidelines for Constructive Feedback
+## 2. Guidelines for Constructive Feedback
 
 When preparing your review, structure it thoughtfully:
 
@@ -54,7 +39,7 @@ When preparing your review, structure it thoughtfully:
 
 7. **Use confidential comments to ACs if needed**, for sensitive observations not appropriate for authors.\
 
-## 4. Review Criteria
+## 3. Review Criteria
 ### Core Principles:
 Reviewers should be guided by the principles outlined in [this document](https://pmc.ncbi.nlm.nih.gov/articles/PMC4304228)
 
