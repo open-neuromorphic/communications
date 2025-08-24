@@ -12,8 +12,8 @@ Use these links to jump directly to our most important resources.
 
 | Resource                                                                             | Description |
 |:-------------------------------------------------------------------------------------| :--- |
-| 🚀 **[Initiatives Directory](./docs/initiatives/README.md)**                         | Explore the community-driven projects that power ONM's growth. |
-| 🧑‍🤝‍🧑 **[Fellowship Directory](./docs/fellowship/fellowship_directory.md)**       | Meet the recognized leaders and contributors in the ONM community. |
+| 🚀 **[Initiatives Directory](./docs/initiatives/)**                         | Explore the community-driven projects that power ONM's growth. |
+| 🧑‍🤝‍🧑 **[Fellowship Directory](./docs/fellowship/)**       | Meet the recognized leaders and contributors in the ONM community. |
 | 🌱 **[Path to Fellowship](./docs/fellowship/path_to_fellowship.md)**                 | Learn how you can become a recognized ONM Fellow. |
 | 📝 **[Propose an Initiative](./docs/initiatives/submit_initiative_instructions.md)** | Have an idea? Here’s how to propose and lead a new project. |
 | 📜 **[ONM's Principles for Open Resources](./docs/policies/open-definition.md)**     | Read our definition of "open" that guides all our contributions. |
