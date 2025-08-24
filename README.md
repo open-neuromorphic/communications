@@ -18,7 +18,6 @@ Use these links to jump directly to our most important resources.
 | 📝 **[Propose an Initiative](./docs/initiatives/submit_initiative_instructions.md)** | Have an idea? Here’s how to propose and lead a new project. |
 | 📜 **[ONM's Principles for Open Resources](./docs/policies/open-definition.md)**     | Read our definition of "open" that guides all our contributions. |
 | 🌐 **[Main Website](https://open-neuromorphic.org)**                                 | Visit our official website for hardware/software guides, events, and more. |
-| 💬 **[Join our Discord](https://discord.gg/openneuromorphic)**                       | The heart of our community. Join the conversation here! |
 
 ---
 
