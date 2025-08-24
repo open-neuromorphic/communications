@@ -1,4 +1,4 @@
-# 🧠 Open Neuromorphic Community Hub & Operations
+# Open Neuromorphic Community Hub & Operations
 
 Welcome! This repository is the central hub for the Open Neuromorphic (ONM) community's governance, strategic initiatives, and operational planning. It serves as both a public portal for our documentation and an internal workspace for leadership and contributors.
 
@@ -6,7 +6,7 @@ Our mission is to advance neuromorphic computing through open-source projects, i
 
 ---
 
-## 🧭 Quick Navigation: Find What You Need
+## Quick Navigation: Find What You Need
 
 Use these links to jump directly to our most important resources.
 
@@ -21,7 +21,7 @@ Use these links to jump directly to our most important resources.
 
 ---
 
-## 🗂️ How This Repository Is Organized
+## How This Repository Is Organized
 
 This repository contains both public-facing documentation and internal operational assets.
 
@@ -31,7 +31,7 @@ This repository contains both public-facing documentation and internal operation
 
 ---
 
-## 🤝 How to Contribute Here
+## How to Contribute Here
 
 This repository is an active workspace. We welcome contributions from all community members, especially those looking to take on leadership roles or manage initiatives.
 
