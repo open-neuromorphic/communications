@@ -10,14 +10,13 @@ Our mission is to advance neuromorphic computing through open-source projects, i
 
 Use these links to jump directly to our most important resources.
 
-| Resource                                                                             | Description |
-|:-------------------------------------------------------------------------------------| :--- |
-| 🚀 **[Initiatives Directory](./docs/initiatives/)**                         | Explore the community-driven projects that power ONM's growth. |
-| 🧑‍🤝‍🧑 **[Fellowship Directory](./docs/fellowship/)**       | Meet the recognized leaders and contributors in the ONM community. |
-| 🌱 **[Path to Fellowship](./docs/fellowship/path_to_fellowship.md)**                 | Learn how you can become a recognized ONM Fellow. |
-| 📝 **[Propose an Initiative](./docs/initiatives/submit_initiative_instructions.md)** | Have an idea? Here’s how to propose and lead a new project. |
-| 📜 **[ONM's Principles for Open Resources](./docs/policies/open-definition.md)**     | Read our definition of "open" that guides all our contributions. |
-| 🌐 **[Main Website](https://open-neuromorphic.org)**                                 | Visit our official website for hardware/software guides, events, and more. |
+| Resource                                                                                  | Description |
+|:------------------------------------------------------------------------------------------| :--- |
+| 🚀 **[Initiatives Directory](./docs/initiatives/)**                                       | Explore the community-driven projects that power ONM's growth. |
+| 🌱 **[Path to Fellowship](./docs/initiatives/onm_fellowship_charter.md)**                 | Learn how you can become a recognized ONM Fellow. |
+| 📝 **[Propose an Initiative](./docs/initiatives/submit_initiative_instructions.md)**      | Have an idea? Here’s how to propose and lead a new project. |
+| 📜 **[ONM's Principles for Open Resources](./docs/policies/open-definition.md)**          | Read our definition of "open" that guides all our contributions. |
+| 🌐 **[Main Website](https://open-neuromorphic.org)**                                      | Visit our official website for hardware/software guides, events, and more. |
 
 ---
 
