@@ -10,3 +10,6 @@ A resource **MAY**:
 -   **Require derivatives to carry a reciprocal license** (like Share-Alike "SA" or GPL).
 
 We will prioritize resources with permissive licenses like **CC-BY**, **CC-BY-SA**, **MIT**, and **Apache 2.0**. While we still value resources with Non-Commercial (NC) or No-Derivatives (ND) clauses, we will mark them as having restrictions, as they do not grant the full freedom to the community to build upon them.
+
+###  Licensing Note:
+This policy and associated ONM website content are released under a Creative Commons Attribution-ShareAlike (CC BY-SA) license. The ShareAlike clause ensures that any derivatives or adaptations remain equally open and freely available, reinforcing our commitment to openness and community benefit. We recognize that ShareAlike may limit adoption by organizations that wish to apply additional restrictions, but we believe this approach best protects the open, collaborative spirit of our community.
