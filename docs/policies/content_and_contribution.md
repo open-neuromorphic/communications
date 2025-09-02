@@ -46,7 +46,7 @@ To maintain our open-source mission, we require that contributions made through 
 
 3.  **Using Your Own License:** We encourage you to use your own preferred open-source license. If your materials are already licensed under a different license (e.g., Apache 2.0, CC-BY), please **inform us in advance** or make the license clear in your materials. As long as it complies with our Definition of Open, we will honor it and make a note of the specific license when sharing your work.
 
-### Policy for Event Participation
+### Policy for Event Attendance
 
 For all ONM-hosted events (e.g., Student Talks, workshops, hacking hours):
 
