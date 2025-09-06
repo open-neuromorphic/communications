@@ -1,7 +1,7 @@
 # Status Report: Justin Riddiough - 2025-08-29 to 2025-09-06 
 
 ## 🎯 Highlights & Key Accomplishments
-- Scheduled a strategic advisory call with Harish Pillay (AI Verify Foundation, Red Hat) to guide our foundation and funding model.
+- Scheduled a introductory advisory call with Harish Pillay (AI Verify Foundation, Red Hat) to guide our foundation and funding model.
 - Initiated major website infrastructure improvements, including a formal Town Hall event system and a robust internal linking refactor to support staging environments.
 - Successfully onboarded a new volunteer (Jose) to help with website content curation (included comms support from Danny Rosen)
 
