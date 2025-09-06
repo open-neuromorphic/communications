@@ -3,7 +3,7 @@
 ## 🎯 Highlights & Key Accomplishments
 - Scheduled a strategic advisory call with Harish Pillay (AI Verify Foundation, Red Hat) to guide our foundation and funding model.
 - Initiated major website infrastructure improvements, including a formal Town Hall event system and a robust internal linking refactor to support staging environments.
-- Successfully onboarded a new volunteer (Jose) to help with website content curation.
+- Successfully onboarded a new volunteer (Jose) to help with website content curation (included comms support from Danny Rosen)
 
 ## ❗ Blocked / Awaiting Review
 *   **Content & Sponsorship Policy:** The latest draft incorporating committee feedback is awaiting final review and approval before it can be formally adopted. [Awaiting Review in #88](https://github.com/open-neuromorphic/communications/pull/88)
