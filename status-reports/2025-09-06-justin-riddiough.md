@@ -19,6 +19,7 @@
 
 ### 📣 Communications
 - Enabled GitHub webhooks to report repository updates directly to Discord, improving transparency. [CLOSED #55](https://github.com/open-neuromorphic/communications/issues/55)
+- Exploring a potential collaboration with **BME Bytes** on a Discord-to-GitHub content assistant. [UPDATED #71](https://github.com/open-neuromorphic/communications/issues/71)
 
 ### 🌐 Website
 - Improved styling and layout for the **Community Resources** and **Volunteer Opportunities** pages. [CLOSED #327](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/327)
@@ -35,7 +36,6 @@
 - Preparing for the advisory call with **Harish Pillay** to discuss foundational and funding models for ONM.
 
 ### 📣 Communications
-- Exploring a potential collaboration with **BME Bytes** on a Discord-to-GitHub content assistant. [UPDATED #71](https://github.com/open-neuromorphic/communications/issues/71)
 - Developing the initial slide presentation for the **Community Town Hall** meetings. [View Presentation](https://visioninit.dev/th/)
 - Outlining a process to include **newsletter sign-ups** in our general mailing list.
 
