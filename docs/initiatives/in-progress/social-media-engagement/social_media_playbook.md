@@ -67,7 +67,7 @@ This is our most important sequence. Consistency here is key to driving attendan
 
 *   **[15 Minutes Before] Monday Morning: Promote the Town Hall:**
     *   **Action:** Post a reminder for the weekly Community Town Hall.
-    *   **Content:** "It's Monday! That means it's time for the ONM Town Hall. Join us at 14:00 CEST to catch up on the latest initiatives and share your ideas."
+    *   **Content:** "It's Monday! That means it's time for the ONM Town Hall. Join us at 14:00 CEST / 8:00 ET to catch up on the latest initiatives and share your ideas."
     *   **Link:** Include the YouTube event link (youtube and linkedin events created within StreamYard).
 
 *   **End of Week: Community Contributor Shout-Out:**
