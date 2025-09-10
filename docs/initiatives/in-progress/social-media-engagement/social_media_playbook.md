@@ -65,10 +65,10 @@ This is our most important sequence. Consistency here is key to driving attendan
 
 #### **B. Weekly Recurring Tasks**
 
-*   **Monday Morning: Promote the Town Hall:**
+*   **[15 Minutes Before] Monday Morning: Promote the Town Hall:**
     *   **Action:** Post a reminder for the weekly Community Town Hall.
     *   **Content:** "It's Monday! That means it's time for the ONM Town Hall. Join us at 14:00 CEST to catch up on the latest initiatives and share your ideas."
-    *   **Link:** Include the Discord event link.
+    *   **Link:** Include the YouTube event link (youtube and linkedin events created within StreamYard).
 
 *   **End of Week: Community Contributor Shout-Out:**
     *   **Action:** Coordinate with the leadership team to get a summary of interesting Discord discussions (based on **Issue #28**).
@@ -88,13 +88,12 @@ This is our most important sequence. Consistency here is key to driving attendan
 
 *   **Visuals:** The website is your best friend! Every event and blog page has a "Share" button that provides pre-made, high-quality images perfect for social media.
 *   **Content Source:** The website (`open-neuromorphic.org`), the `communications` GitHub repo, and the Discord server are your primary sources for news and content.
-*   **Coordination:** We'll use the `#leadership` channel on Discord for planning and approvals.
 
 ### **Our Tone of Voice**
 
 *   **Authoritative yet Accessible:** We are experts, but we are welcoming to newcomers. Avoid overly dense jargon where possible.
 *   **Supportive and Collaborative:** We celebrate the community. Our language should be inclusive, positive, and encouraging.
-*   **Forward-Looking and a Little Bit Hype:** We're excited about the future of neuromorphic computing, and it's okay to show it! Use emojis to add energy. 🧠⚡🚀
+*   **Forward-Looking and a Little Bit Hype:** We're excited about the future of neuromorphic computing, and it's okay to show it! 
 
 ### **Your First 30 Days: A Suggested Plan**
 
