@@ -38,7 +38,7 @@ For full details, please see our **[Content and Contribution Policy](./content_a
 Open Neuromorphic is a community-first organization. To support our operational costs, some events may be supported by sponsors. We are committed to ensuring these partnerships are transparent and never compromise our editorial independence.
 
 This specific event is made possible with support from:
-*   **[Sponsor Name(s), e.g., Innatera]**
+*   **[Sponsor Name(s)]**
 
 Sponsor recognition is limited to a brief, standardized acknowledgment (e.g., "This event is brought to you by [Sponsor Name]") at the beginning of the session and on promotional materials. Sponsors have no influence over event content.
 
