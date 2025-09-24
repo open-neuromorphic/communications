@@ -1,45 +1,52 @@
-# Status Report: Justin Riddiough - 2025-09-19
+# Status Report: Justin Riddiough - 2025-09-23
 
 ## 🎯 Highlights & Key Accomplishments
--   **Launched Collaboration Network Outreach:** Drafted and finalized the outreach strategy to formally invite key open-source projects into the ONM Collaboration Network, a major step in executing our strategic vision.
--   **Coordinated First Backlog Grooming Session:** Led a productive meeting to review, categorize, and close outstanding issues in the `communications` repository, improving our team's operational focus and efficiency.
--   **Developed Event Participant Agreement:** Created and submitted a formal agreement and consent form for event speakers, establishing clear guidelines for content licensing and sponsorship opt-ins.
+-   **Formalized Event Coordination:** Created and submitted the **Event Coordinator Playbook** via a pull request, providing a comprehensive guide to streamline event management and onboard new volunteers.
+-   **Launched Town Hall Integration:** Successfully integrated the weekly Community Town Hall as a formal event type on the website, complete with a dedicated page and homepage visibility, increasing its reach and creating a permanent archive.
+-   **Initiated Collaboration Network Outreach:** Finalized and began executing the outreach strategy to formally invite key open-source projects into the ONM Collaboration Network, a major step in unifying the ecosystem.
 
 ## ❗ Blocked / Awaiting Review
-*   **Collaboration Network Outreach Message:** The outreach message template for inviting new projects is complete but awaiting final review and approval from the committee before being sent out. [Awaiting Review in #100](https://github.com/open-neuromorphic/communications/issues/100)
+*   **Formal Membership Roll:** The official membership roll remains blocked pending receipt of contact information from all Fellows. The request has been sent, but we are awaiting responses to finalize the document. [Awaiting Action in #95](https://github.com/open-neuromorphic/communications/issues/95)
+*   **Event Participant Agreement:** The PR for the formal `event_participant_agreement.md` is complete and awaiting final review and merge into our official policies. [Awaiting Review in #99](https://github.com/open-neuromorphic/communications/pull/99)
 
 ---
 
 ## ✅ Completed Tasks
 
-### 🏛️ Governance
--   Created a draft **Event Participant Agreement** as an interactive Google Form to streamline the consent process for speakers. [RELATED #99](https://github.com/open-neuromorphic/communications/pull/99)
--   Submitted the formal markdown version of the **Event Participant Agreement** via a pull request to integrate it into our official policies. [OPEN #99](https://github.com/open-neuromorphic/communications/pull/99)
+### 🏛️ Governance & Operations
+-   Created the **Event Coordinator Playbook** and submitted it for review, establishing a master checklist and workflow for all community events. [OPEN #101](https://github.com/open-neuromorphic/communications/pull/101)
+-   Led the first **Backlog Grooming Session** with the Executive Committee to triage, categorize, and close outstanding issues in the `communications` repository.
 
-### 📣 Communications & Operations
--   Led the first **Backlog Grooming Session** with the Executive Committee to triage and organize open issues. [Meeting on 2025-09-19]
--   Prepared the presentation deck for the **Community Town Hall** on September 15th, providing a clear overview of weekly progress. [RELATED #333](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/333)
--   Initiated the **Collaboration Network Outreach** by drafting a detailed outreach message and compiling a target list of projects. [OPEN #100](https://github.com/open-neuromorphic/communications/issues/100)
--   Co-curated and prepared the website page for the upcoming **Tonic Workshop** with Gregor Lenz.
+### 📣 Communications
+-   Prepared the presentation deck for the **Community Town Hall** on September 15th.
+-   Drafted and published the social media announcement (LinkedIn/X) for the upcoming **Tonic Workshop**.
+
+### 🌐 Website
+-   Merged and launched the **Community Town Hall integration**, making it a formal, archivable event type on the website. [CLOSED #333](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/333) via PR [#342](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/342)
+-   Created, configured, and published the event page for the **Tonic Workshop with Gregor Lenz**, including generating automated social media assets.
 
 ---
 
 ## ⏳ In Progress
 
+### 🏛️ Governance & Strategy
+-   Advisory meetings with **Harish Pillay** and fiscal sponsors (**OSHF, NumFocus**) to refine ONM's foundational and funding models.
+
+### 📣 Communications & Community
+-   Actively sending outreach messages to the target list of projects for the **ONM Collaboration Network**. [OPEN #100](https://github.com/open-neuromorphic/communications/issues/100)
+-   Onboarding and coordinating with new volunteers, including **Marcos** (Social Media Coordinator) and new applicants for the **Event Coordinator** role.
+
 ### 🌐 Website
--   Integrating **Community Town Halls** as a formal event type on the website, including a dedicated section and homepage visibility. [OPEN PR #342](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/342) on Issue [#333](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/333)
--   Migrating legacy event pages to use the new centralized **Contributor Profile system** for speaker information. [OPEN #341](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/341)
--   Continuing the site-wide refactor of internal links to improve robustness for staging environments. [OPEN #332](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/332)
+-   Migrating legacy event pages to use the new centralized **Contributor Profile system** for speaker information, which is now a priority for all new events. [OPEN #341](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/341)
+-   Continuing the site-wide refactor of internal links to use `site.GetPage` for robust multi-environment support. [OPEN #332](https://github.com/open-neuromorphic/open-neuromorphic.github.io/issues/332)
 
 ### 🛠️ Resources & Infrastructure
 -   Testing the **Mission Board's** automation scripts in a staging environment before enabling the nightly build process.
 -   Awaiting responses from **Digital Ocean** and **JetBrains** on our Open Source Credits applications.
 
-### 🤝 Community
--   Continuing to onboard **Marcos** as the new Social Media Coordinator by reviewing the Social Media Playbook and defining initial tasks.
-
 ---
 
 ## 💡 Next Steps / Focus for Next Week
--   Send the outreach message to the first batch of projects for the Collaboration Network.
--   Finalize and merge the Town Hall integration PR (#342) to get the feature live on the website.
+-   Continue sending outreach emails to projects for the Collaboration Network.
+-   Work with the new Event Coordinator volunteer(s) to get them fully onboarded using the new playbook.
+-   Prepare for and conduct the advisory meeting with Chris Eliasmith to discuss potential workshop opportunities.
