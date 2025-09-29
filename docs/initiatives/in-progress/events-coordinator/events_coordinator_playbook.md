@@ -32,7 +32,8 @@ This is your step-by-step guide for managing an event from conception to archive
 
 *   [ ] **Initial Contact & Scheduling:**
     *   Work with the speaker and the Executive Committee to schedule a date and time that maximizes audience reach across different time zones.
-*   [ ] **Formalize Participation:**
+    *   We recommend use of a tool such as [Timeful](https://timeful.app/) for coordinating time availability
+* [ ] **Formalize Participation:**
     *   Send the speaker the **[Event Participant Agreement](https://github.com/open-neuromorphic/communications/blob/main/docs/policies/event_participant_agreement.md)** form. This is a crucial step for clarifying content licensing and sponsorship opt-in.
     *   Confirm receipt and answer any questions they may have about the policy.
 *   [ ] **Create the Website Event Page:**
@@ -92,6 +93,7 @@ This is your step-by-step guide for managing an event from conception to archive
 *   **StreamYard:** Our primary platform for live streaming and recording events.
 *   **Google Calendar:** For our shared, public-facing events calendar.
 *   **Discord:** For all internal communication and community announcements.
+*   **Timeful App:** https://timeful.app/ For coordinating time availability
 *   **GitHub:** For creating and updating event pages on the website.
 *   **YouTube:** For hosting all event recordings.
 
