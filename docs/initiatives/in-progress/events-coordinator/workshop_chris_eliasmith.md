@@ -161,7 +161,7 @@ The following information must be collected to create the event page on the ONM 
 
 ## 📝 Notes
 
-- Advisory meeting scheduled to discuss potential workshop opportunities (reference: [Status Report 2025-09-24](../../../status-reports/2025-09-24-justin-riddiough.md))
+- Advisory meeting scheduled to discuss potential workshop opportunities (reference: [Status Report 2025-09-24](../../../../status-reports/2025-09-24-justin-riddiough.md))
 - Workshop format and specific topics to be determined during advisory meeting
 - Coordinate with Social Media Coordinator for promotion strategy
 - Consider recording format: live Q&A vs. presentation + Q&A
@@ -177,5 +177,5 @@ The following information must be collected to create the event page on the ONM 
 
 ---
 
-**Last Updated:** 2025-01-XX  
+**Last Updated:** 2025-09-30  
 **Document Owner:** Event Coordinator (TBD)
