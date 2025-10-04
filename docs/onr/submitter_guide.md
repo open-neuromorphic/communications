@@ -35,7 +35,7 @@ We especially encourage well-documented Jupyter notebooks that walk through core
 **All authors must have existing OpenReview profiles** before submitting. If you don't have one:
 1. Create an account at [OpenReview.net](https://openreview.net/)
 2. Complete your profile with your name, email, and affiliations
-3. Ensure your profile ID follows the format `~FirstName_LastName1` (e.g., `~Jane_Doe1`)
+3. Ensure your profile ID follows the format `~FirstName_LastName#` (e.g., `~Jane_Doe1`)
 
 ### Submission Process
 
@@ -44,89 +44,44 @@ Submit your work through OpenReview using the official ONM Research submission f
 
 You will be required to provide the following information:
 
-#### 1. **Title** *(required)*
-- **Type**: Text field
-- **Max length**: 250 characters
-- **Supports**: TeX formulas using `$…$` for inline or `$$…$$` for display math
-- **Example**: `Efficient Spiking Neural Networks for $\mathcal{O}(n)$ Classification`
+#### Submission Details
 
-#### 2. **Abstract** *(required)*
-- **Type**: Textarea
-- **Max length**: 5000 characters
-- **Supports**: TeX formulas for mathematical notation
-- **Tip**: Clearly summarize your contribution, methods, and key findings
+1. **Title** *(required)*  
+  - Max length: 250 characters  
+  - Supports TeX formulas (e.g., `$…$` for inline, `$$…$$` for display math)  
 
-#### 3. **Authors** *(required)*
-- **Type**: Comma-separated list
-- **Format**: `FirstName LastName, FirstName LastName`
-- **Note**: This field is hidden and not publicly displayed
-- **Example**: `Jane Doe, John Smith, Alice Johnson`
+2. **Abstract** *(required)*  
+  - Max length: 5000 characters  
+  - Clearly summarize your contribution, methods, and findings  
 
-#### 4. **Author IDs** *(required)*
-- **Type**: Comma-separated list of OpenReview profile IDs
-- **Format**: Must match the pattern `~.*` (e.g., `~Jane_Doe1`)
-- **Must map to**: Valid OpenReview profiles
-- **Example**: `~Jane_Doe1, ~John_Smith2, ~Alice_Johnson1`
-- **Important**: The order must match the author list above
+3. **Authors** *(required)*  
+  - Comma-separated list (e.g., `Jane Doe, John Smith`)  
 
-#### 5. **PDF** *(required)*
-- **Type**: File upload
-- **Format**: `.pdf` only
-- **Max size**: 50 MB
-- **Requirements**: 
-  - Must include title, authors, abstract, and references
-  - Should be well-formatted and readable
-  - Ensure proper anonymization if required by submission guidelines
+4. **Author IDs** *(required)*  
+  - Comma-separated OpenReview profile IDs (e.g., `~Jane_Doe1`)  
 
-#### 6. **Submission Length** *(required)*
-- **Type**: Single choice
-- **Options**:
-  - `Regular submission (≤12 pages of main content)` — for papers with up to 12 pages of main content (excluding references and appendices)
-  - `Long submission (>12 pages)` — for papers exceeding 12 pages of main content
-- **Note**: Choose based on your main content length; references and appendices are not counted
+5. **PDF** *(required)*  
+  - Upload a `.pdf` file (max size: 50 MB)  
+  - Include title, authors, abstract, and references  
 
-#### 7. **Supplementary Material** *(optional)*
-- **Type**: File upload
-- **Formats**: `.zip` or `.pdf`
-- **Max size**: 100 MB
-- **Requirements**:
-  - Must be anonymized
-  - Must be self-contained (do not rely on external links)
-  - Visible to reviewers and public
-- **May include**: Code, datasets, additional figures, extended proofs, demo videos
-- **Tip**: Organize ZIP files with a clear directory structure and include a README
+6. **Submission Length** *(required)*  
+  - Choose: `Regular submission (≤8 pages)` or `Long submission (>8 pages)`  
 
-#### 8. **Previous ONR Submission URL** *(optional)*
-- **Type**: Text field
-- **Format**: Must match `https://openreview.net/forum?id=.*`
-- **When to use**: If this is a revision of a previously submitted work
-- **Example**: `https://openreview.net/forum?id=abc123xyz`
+7. **Supplementary Material** *(optional)*  
+  - Upload `.zip` or `.pdf` (max size: 100 MB)  
+  - May include code, datasets, figures, or videos  
 
-#### 9. **Changes Since Last Submission** *(optional)*
-- **Type**: Textarea
-- **Supports**: Markdown and TeX formulas
-- **When to use**: Required if you provided a previous submission URL
-- **Tip**: Be specific about what changed (e.g., "Added experiments on dataset X", "Revised Section 3 based on reviewer feedback")
+8. **Previous Submission URL** *(optional)*  
+  - Provide the OpenReview URL if revising a prior submission  
 
-#### 10. **Competing Interests** *(required)*
-- **Type**: Textarea
-- **Purpose**: Disclose any conflicts of interest
-- **Format**: Free text
-- **If none**: Enter `N/A`
-- **Examples of competing interests**:
-  - Employment or consulting relationships with organizations related to the submission
-  - Financial interests in companies related to the work
-  - Personal relationships with potential reviewers
+9. **Changes Since Last Submission** *(optional)*  
+  - Describe updates made since the previous submission  
 
-#### 11. **Human Subjects Reporting** *(required)*
-- **Type**: Textarea
-- **Purpose**: Disclose if your research involved human subjects
-- **If not applicable**: Enter `N/A`
-- **If applicable**: Provide:
-  - IRB approval information
-  - Consent procedures
-  - Data privacy measures
-  - Compliance with ethical guidelines
+10. **Competing Interests** *(required)*  
+   - Disclose conflicts of interest or enter `N/A`  
+
+11. **Human Subjects Reporting** *(required)*  
+   - Provide details if applicable, or enter `N/A`  
 
 ### After Submission
 
