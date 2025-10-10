@@ -87,6 +87,8 @@ You will be required to provide the following information:
 
 Your submission will be reviewed by a panel of 3–5 ONM volunteer reviewers. You'll receive confirmation and an estimated timeline for decisions.
 
+**Note:** Submissions that do not meet the basic requirements (e.g., scope, clarity, or compliance with the [Definition of Open](../policies/open-definition.md)) may be desk rejected without further review.
+
 ---
 
 ## Review Criteria
@@ -120,3 +122,4 @@ After review:
 Join us on the [ONM Discord](https://discord.gg/3dbSPeAZkk)! or email: [contact@open-neuromorphic.org](mailto:contact@open-neuromorphic.org)
 
 We look forward to seeing your work!
+
