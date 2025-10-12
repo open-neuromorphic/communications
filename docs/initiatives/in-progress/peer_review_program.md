@@ -67,3 +67,7 @@ _Hypothesis:_ We believe that a structured peer review process will increase the
 
 - [GitHub Issue](https://github.com/open-neuromorphic/communications/issues/65)
 - [Docs or Files](https://github.com/open-neuromorphic/communications/tree/main/docs/initiatives)
+- [OpenReview Venue](https://openreview.net/group?id=ONR)
+- [Submitter Guide](https://open-neuromorphic.org/neuromorphic-computing/research/guide/submitter-guide/)
+- [Reviewer Guide](https://open-neuromorphic.org/neuromorphic-computing/research/guide/reviewer-guide/)
+- [Reviewer Criteria](https://open-neuromorphic.org/neuromorphic-computing/research/guide/review-criteria/)
