@@ -20,6 +20,19 @@ Use these links to jump directly to our most important resources.
 
 ---
 
+## Community Operations: How to Request Support
+
+This section outlines the primary operational workflows for our community. Use these channels to request support for events, social media promotion, and other key activities.
+
+| Request / Service                                    | How to Initiate / Key Document                                                                                                                                              | Primary Channel for Discussion                  |
+|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|
+| **Organize an Existing Event** (Workshop, Talk)      | **[Open an "Organize an Event" issue](https://github.com/open-neuromorphic/communications/issues/new/choose)** using our official checklist template.                              | `#event-coordination` channel on Discord        |
+| **Request Social Media Promotion**                   | Make a request in the channel. For guidelines, see the **[Social Media Playbook](./docs/initiatives/in-progress/social-media-engagement/social_media_playbook.md)**. | `#social-media-coordination` channel on Discord |
+| **Request Custom Graphics**                          | Make a request and tag our volunteer designer (`@Manavya`) in the channel.                                                                                                    | `#social-media-coordination` channel on Discord |
+| **Propose New Initiatives, Policies, or Events**     | Propose ideas via `contact@open-neuromorphic.org`, in the `#contribution-ideas` channel, or submit a formal proposal via **[Pull Request](./docs/initiatives/submit_initiative_instructions.md)**.       | GitHub Pull Request / `#contribution-ideas` on Discord  |
+
+---
+
 ## How This Repository Is Organized
 
 This repository contains both public-facing documentation and internal operational assets.
@@ -34,10 +47,13 @@ This repository contains both public-facing documentation and internal operation
 
 This repository is an active workspace. We welcome contributions from all community members, especially those looking to take on leadership roles or manage initiatives.
 
-### Proposing an Initiative
-If you have an idea for a new community project, please follow our guide:
+### Requesting Operational Support
+For routine tasks like event coordination or social media promotion, please refer to the "Community Operations" section above to engage with the correct team.
+
+### Proposing a Strategic Initiative
+If you have an idea for a new community project or policy, please follow our guide:
 1.  Use the **[New Initiative Template](./docs/initiatives/new_initiative_template.md)** to structure your proposal.
-2.  Follow the **[Submission Instructions](./docs/initiatives/submit_initiative_instructions.md)** to submit it via a Pull Request.
+2.  Follow the **[Submission Instructions](./docs/initiatives/submit_initiative_instructions.md)** to submit it via a Pull Request for review by the Executive Committee.
 
 ### Tracking Tasks (Issues)
 We use GitHub Issues in this repository to track tasks related to ONM leadership and strategic initiatives. If you are a Fellow or initiative lead, please use issues to manage your action items.
