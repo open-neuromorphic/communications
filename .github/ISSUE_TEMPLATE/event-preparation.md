@@ -1,22 +1,28 @@
-### Context & Objectives
+---
+name: Event Preparation
+about: Use this checklist to plan, execute, and archive a new community event.
+title: 'Event: [Name of Talk/Speaker]'
+labels: ''
+---
+
+Guests/Hosts: 
+Preliminary Event description:
+
 
 ### Phase 1: Pre-Event Planning & Onboarding
 
 - [ ] **Initial Contact & Scheduling:**
-  - [ ] Work with the speaker and the Executive Committee to schedule a date and time that maximizes audience reach across different time zones.
-  - [ ] We recommend use of a tool such as Timeful for coordinating time availability.
+  - [ ] Work with the speaker and the Executive Committee to schedule a date and time that maximizes audience reach across different time zones. (We recommend use of a tool such as Timeful for coordinating time availability.)
 - [ ] **Formalize Participation:**
   - [ ] Send the speaker the Event Participant Agreement form. This is a crucial step for clarifying content licensing and sponsorship opt-in.
   - [ ] Confirm receipt and answer any questions they may have about the policy.
+- [ ] **Collect all necessary information from the speaker:**
+  - [ ] Speaker Bio & Photo
+  - [ ] Links to slides, code repositories, or papers (can be published before or after)
 - [ ] **Create the Website Event Page:**
   - [ ] Use the appropriate Hugo archetype to create a new event page on the ONM website repository. (Reference: `CONTRIBUTING.md`).
   - https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/385/files
-  - [ ] Collect all necessary information from the speaker:
-    - [ ] Final Title & Abstract/Description
-    - [ ] Speaker Bio & Photo (create a new contributor profile if one doesn't exist, as per Issue #341).
-    - [ ] Links to slides, code repositories, or papers.
-- [ ] **Update the ONM Calendar:**
-  - [ ] Add the event to the shared Google Calendar (see Issue #77) with all relevant details and links. This will eventually power the website's "Add to Calendar" feature (Issue #331).
+  - [ ] (Staging) Final Review of Website Post (share with stakeholders to confirm messaging & review their contributor profiles)
 
 ---
 
@@ -27,7 +33,9 @@
   - [ ] Configure the destinations (YouTube, LinkedIn) to automatically schedule the upcoming stream placeholders.
 - [ ] **Coordinate Initial Promotion:**
   - [ ] Notify the Social Media Coordinator that the event page is live.
-  - [ ] Work with them to schedule the "1 Week Before" announcement post across all platforms.
+  - [ ] Work with them to schedule the promotional posts across all platforms.
+- [ ] **Update the ONM Calendar:**
+  - [ ] Add the event to the shared Google & Discord Calendar
 - [ ] **Schedule a Tech Check:**
   - [ ] Arrange a brief (15-minute) tech check with the speaker to ensure they are comfortable with StreamYard, test their camera/mic, and walk through the screen-sharing process.
 
@@ -38,9 +46,9 @@
 - [ ] **Send Speaker Reminders:**
   - [ ] A few days before the event, send a reminder email to the speaker with the final schedule, the StreamYard guest link, and contact info for day-of support.
 - [ ] **Coordinate Final Promotion:**
-  - [ ] Work with the Social Media Coordinator to execute the "24 Hours Before" and "1 Hour Before" reminder posts.
+  - [ ] Work with the Social Media Coordinator to execute the reminder posts.
 - [ ] **Prepare the Discord Announcement:**
-  - [ ] Schedule an `@everyone` announcement in the Discord server's `#announcements` channel to go live shortly before the event starts.
+  - [ ] Schedule announcements in the Discord shortly before the event starts.
 
 ---
 
