@@ -1,5 +1,5 @@
 ---
-name: Event Preparation
+name: Organize an Event
 about: Use this checklist to plan, execute, and archive a new community event.
 title: 'Event: [Name of Talk/Speaker]'
 labels: ''
