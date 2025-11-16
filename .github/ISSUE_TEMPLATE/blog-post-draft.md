@@ -34,6 +34,18 @@ _Please paste the full content of your blog post below in Markdown format. Our t
 
 ---
 
+### 🚀 Go Further (Optional): Create a Live Preview
+
+For contributors comfortable with Git, you can take your contribution a step further by creating a live preview of your blog post on your own staging site. This allows you to see exactly how your content will look and is the best way to collaborate on visual and formatting details.
+
+Our contribution guides provide a full walkthrough of the process:
+- **[CONTRIBUTING.md](https://github.com/open-neuromorphic/open-neuromorphic.github.io/blob/main/CONTRIBUTING.md)**: For local setup and general contributions.
+- **[CONTRIBUTING-Staging.MD](https://github.com/open-neuromorphic/open-neuromorphic.github.io/blob/main/CONTRIBUTING-Staging.MD)**: For setting up your own live preview environment.
+
+If you have any questions about this process, our volunteers in the **`#onm-tech-contributors`** channel on Discord are happy to help!
+
+---
+
 ### 🖼️ Images & Attachments
 
 _List any images, diagrams, or other files that should be included with the post. If you have them ready, you can drag and drop them directly into this issue._
