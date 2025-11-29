@@ -20,17 +20,30 @@ Use these links to jump directly to our most important resources.
 
 ---
 
-## Community Operations: How to Request Support
+## ⚙️ Operational Support for Volunteers & Contributors
 
-This section outlines the primary operational workflows for our community. Use these channels to request support for events, social media promotion, and other key activities.
+This section outlines the workflows for **Fellows, Initiative Leads, and active Volunteers** to request internal resources and support.
 
-| Request / Service                                    | How to Initiate / Key Document                                                                                                                                              | Primary Channel for Discussion                  |
-|:-----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|
-| **Organize an Existing Event** (Workshop, Talk)      | **[Open an "Organize an Event" issue](https://github.com/open-neuromorphic/communications/issues/new/choose)** using our official checklist template.                              | `#event-coordination` channel on Discord        |
-| **Request Social Media Promotion**                   | Make a request in the channel. For guidelines, see the **[Social Media Playbook](./docs/initiatives/in-progress/social-media-engagement/social_media_playbook.md)**. | `#social-media-coordination` channel on Discord |
-| **Request Custom Graphics**                          | Make a request and tag our volunteer designer (`@Manavya`) in the channel.                                                                                                    | `#social-media-coordination` channel on Discord |
-| **Propose New Initiatives, Policies, or Events**     | Propose ideas via `contact@open-neuromorphic.org`, in the `#contribution-ideas` channel, or submit a formal proposal via **[Pull Request](./docs/initiatives/submit_initiative_instructions.md)**.       | GitHub Pull Request / `#contribution-ideas` on Discord  |
+> **Not a contributor yet?**  
+> These services are for individuals actively collaborating on [ONM Initiatives](./docs/initiatives/) or fulfilling [Volunteer Roles](https://open-neuromorphic.org/volunteer-opportunities/). If you would like to get involved, please check those links first!
 
+| Request / Service | How to Initiate / Key Document | Primary Channel |
+| :--- | :--- | :--- |
+| **Organize an Event** | **[Open an "Organize an Event" issue](https://github.com/open-neuromorphic/communications/issues/new/choose)** using the checklist template. | `#event-coordination` |
+| **Request Social Media Promotion** | Request promotion for an ONM event or milestone. See: **[Social Media Playbook](./docs/initiatives/in-progress/social-media-engagement/social_media_playbook.md)**. | `#social-media-coordination` |
+| **Request Custom Graphics** | Tag our volunteer designer (`@Manavya`) with specific asset requirements for an ONM project. | `#social-media-coordination` |
+| **Update Community Calendar** | Ping our volunteer calendar maintainer (`@Liam`) with final event details. | `#event-coordination` |
+
+---
+
+## 💡 Proposing New Ideas (Open to All)
+
+If you are new to the community or have an idea for a project that isn't yet an official initiative, start here:
+
+| Action | Description | Primary Channel |
+| :--- | :--- | :--- |
+| **Propose a New Initiative** | Have an idea for a project? Use the **[New Initiative Template](./docs/initiatives/new_initiative_template.md)** and submit a **[Pull Request](./docs/initiatives/submit_initiative_instructions.md)**. | `#contribution-ideas` |
+| **General Suggestions** | For smaller ideas or general feedback, feel free to drop a note in our ideas channel. | `#contribution-ideas` |
 ---
 
 ## How This Repository Is Organized
