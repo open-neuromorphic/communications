@@ -6,6 +6,8 @@ labels: ''
 ---
 
 **Guests/Hosts:**
+**Date/Time:**
+**Platform:**
 **Preliminary Event Description:**
 
 
