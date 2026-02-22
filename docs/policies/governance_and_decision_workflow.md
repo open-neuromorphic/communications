@@ -1,4 +1,4 @@
-# Policy Proposal: Governance Documentation and Decision Workflow
+# Governance Documentation and Decision Workflow
 
 ## 1. Purpose & Scope
 Following the mandates of the 2026 Annual General Meeting (AGM) to adopt a flattened Executive Committee structure, Open Neuromorphic (ONM) requires a transparent, version-controlled, and auditable process for formalizing organizational decisions.
