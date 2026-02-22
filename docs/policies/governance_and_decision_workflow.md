@@ -49,10 +49,17 @@ While Discord is ONM's primary platform for real-time collaboration and communit
 *   **Informal Consensus:** Preliminary decision-making often occurs in Discord chats. Explicit confirmations or the use of the thumbs-up emoji (`👍`) by Executive Committee members constitutes an informal agreement.
 *   **Formalization:** For any decision that alters policies, roles, or the Charter, this informal Discord consensus **must** be translated into a formal GitHub PR. The Discord chat link should be referenced in the PR description to provide historical context.
 
-## 5. Process for Implementing the 2026 AGM Charter Mandate
-To smoothly transition to the new flat Executive Committee structure agreed upon at the last AGM, the current EC will follow this workflow:
+## 5. Process for Implementing the 2026 AGM Charter Mandates
+During the 2026 AGM, the voting members approved the "spirit" of several motions (e.g., flattening the hierarchy, unpaid EC positions) while leaving the exact wording to be finalized by the incoming EC. Additionally, several proposals were tabled due to time constraints. To process these mandates, the EC will follow two distinct tracks:
 
-1.  **Drafting:** The proposed text for the new *ONM Organisational Charter* will be submitted as a Pull Request to the `communications` repo.
-2.  **EC Alignment:** The current EC members will use the PR review process to suggest edits, debate clauses, and ultimately approve the finalized text.
-3.  **Voting Member Ratification:** Once the EC approves the PR, the draft will be circulated to the voting members for a formal vote.
-4.  **Enactment:** Upon a successful vote by the voting members, the PR will be merged, and the new flat structure will immediately take effect.
+### Track A: Formalizing AGM-Approved Motions
+1.  **Drafting:** An EC member submits a Pull Request translating the approved AGM motions into concrete updates to the *ONM Organisational Charter*.
+2.  **EC Alignment:** The EC members use the PR review process to finalize the exact wording, ensuring it aligns with the intent voted on at the AGM.
+3.  **Final Ratification:** Once EC consensus is reached, the draft is circulated to the voting members to verify the wording matches the approved intent. Upon verification, the PR is merged.
+
+### Track B: Championing Tabled Proposals
+For proposals that were submitted to the AGM but not voted on:
+1.  **Championing:** An EC member must voluntarily adopt the un-voted proposal to act as its "Champion."
+2.  **Drafting:** The Champion submits the proposal as a Pull Request, drafting the necessary Charter amendments.
+3.  **EC Alignment:** The EC reviews, refines, and aligns on the proposal via the PR process.
+4.  **Voting Member Vote:** Because these proposals have not yet been approved by the community, the finalized PR text must be presented to the voting members for a formal vote. Upon receiving a majority/quorum vote, the PR is merged and the Charter is updated.
