@@ -18,8 +18,11 @@ To ensure that all strategic decisions are public, auditable, and collaborative,
 
 ### 3.1. The PR Voting Process
 When a new policy, role definition, or charter amendment is proposed, it must be submitted as a Pull Request.
+
+*   **Scope & Focus:** To maintain clear discussions and accurate voting, each Pull Request must focus on a single, distinct proposal or conceptual change. Mixing unrelated policy updates or amendments into a single PR is strongly discouraged.
+*   **The Submitter's Role:** The EC member who opens the Pull Request is implicitly recorded as voting "Approve" (in favor) of their proposal. The submitter owns the proposal and is responsible for facilitating the discussion, addressing concerns, and committing updates based on peer feedback.
 *   **Discussion:** Debate and refinement of the proposal take place in the PR comments.
-*   **Voting:** The formal casting of a vote is executed via GitHub's "Pull Request Review" feature.
+*   **Voting:** The formal casting of a vote by other EC members is executed via GitHub's "Pull Request Review" feature.
     *   **Approve:** Represents a "Yes" vote.
     *   **Request Changes:** Represents an objection or a request for revision.
 *   **Auditability:** Once a PR meets the required approval threshold (defined below), merging the PR acts as the official ratification of the decision. The Git history serves as the public decision log.
@@ -30,11 +33,11 @@ Different types of updates require different levels of consensus, reflecting the
 1.  **Minor Edits (Typos, Formatting, Broken Links):**
     *   Do not require formal review. Can be merged directly by any Executive Committee member to maintain repository hygiene.
 2.  **Operational & Policy Adjustments (Non-Charter):**
-    *   **Baseline Requirement:** A 2/3 majority of the Executive Committee is required to pass. If the PR submitter is an EC member, **at least one additional documented approval** from another EC member is required before merging.
-    *   **Handling Objections & Abstentions:** In the spirit of consensus, if an EC member disagrees with a proposal or is unavailable, the following mechanisms apply:
+    *   **Baseline & Full Participation Requirement:** A 2/3 majority of the Executive Committee is required to pass a proposal. However, a Pull Request **cannot be merged until 100% of the EC (3/3 input) has registered a response**. Since the PR submitter is assumed to be in favor, they must secure an "Approve" from a second member, *and* wait for the third member to provide input (Approve, Abstain, Veto, or Timeout) before merging.
+    *   **Handling Objections & Abstentions:** In the spirit of consensus, if an EC member disagrees with a proposal or is unavailable, the following mechanisms fulfill their required input:
         *   **Explicit Abstention:** The member explicitly states they are withholding approval but not blocking the vote, allowing the 2/3 majority to enact the decision.
-        *   **Implicit Abstention (Timeout):** If an EC member does not respond to a formal PR review request within two weeks (14 days), their inaction is automatically treated as an abstention so that operational velocity is not blocked.
-        *   **Request Changes:** The member formally objects via a "Request Changes" review. This pauses the PR, prompting the submitter and approvers to work collaboratively on modifications to address the stated concerns.
+        *   **Implicit Abstention (Timeout):** If an EC member does not respond to a formal PR review request within two weeks (14 days), their inaction is automatically treated as an abstention so that operational velocity is not blocked. This timeout fulfills their required input.
+        *   **Request Changes:** The member formally objects via a "Request Changes" review. This pauses the PR, prompting the submitter and approvers to work collaboratively on modifications to address the stated concerns. **Once the requested modifications are pushed to the PR, the 14-day timeout clock restarts.** If the objecting member does not re-review within that new 14-day window, it is treated as an implicit abstention.
         *   **Veto & Escalate:** If modifications fail to resolve the issue and a stalemate is reached, the holdout member may exercise a "veto." This blocks the PR from being merged by the EC's 2/3 majority and escalates the matter to the **voting members** (the advisory group of active Fellows) for broader discussion and final resolution.
 3.  **Strategic Consensus & Charter Amendments:**
     *   Requires a formal vote by the voting members as outlined in the Charter.
