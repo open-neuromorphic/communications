@@ -43,6 +43,13 @@ Different types of updates require different levels of consensus, reflecting the
     *   Requires a formal vote by the voting members as outlined in the Charter.
     *   *Execution:* The EC will finalize the exact wording via a PR. Once the EC aligns, the proposal is presented to the voting members (via email or General Meeting). Upon receiving a majority/quorum vote from the voting members, the PR is merged into the `main` branch, officially updating the Charter.
 
+### 3.3. Member-Initiated Charter Amendments
+In accordance with the ONM Organisational Charter, any community member has the right to propose an amendment.
+
+*   **Submission Mechanism:** Members are encouraged to submit their proposed amendments by opening a Pull Request against the `docs/ONM-Organisational-Charter.md` file in the `communications` repository. (Alternatively, members may open a GitHub Issue outlining the exact text changes requested).
+*   **Fulfilling the Notification Requirement:** The Charter states members must notify the EC at least one month prior to a General Meeting (GM). Submitting the PR/Issue and explicitly tagging the EC (or linking the PR in the `#fellows` or `#leadership` Discord channels) serves as official formal notification.
+*   **EC Processing:** The EC will review the member's PR collaboratively to ensure the text is clear, properly formatted, and free of merge conflicts. The EC will not unilaterally reject a valid member proposal; rather, they will prepare it to be put before the voting members (either at the next GM or via an online ballot), provided the one-month notification requirement has been met.
+
 ## 4. Interaction with Discord Communications
 While Discord is ONM's primary platform for real-time collaboration and community building, it is highly ephemeral.
 
