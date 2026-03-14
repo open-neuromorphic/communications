@@ -50,6 +50,11 @@ _A repository must have at least one dedicated maintainer from the ONM community
 _List the GitHub usernames of the people who will have admin/maintainer access to this repository._
 - @username
 
+**Secrets & Security Management:**
+_Will this repository require the use of sensitive data in builds, pipelines, or actions?_
+- [ ] **No**, this repository will not require sensitive credentials.
+- [ ] **Yes**. The following maintainer(s) will be explicitly responsible to manage, store, and securely distribute sensitive data (including secrets, certificates, and API keys) used in this repository: @username
+
 **Long-Term Maintenance Plan:**
 _Who will maintain this project long-term? How often do you expect it to be updated?_
 
