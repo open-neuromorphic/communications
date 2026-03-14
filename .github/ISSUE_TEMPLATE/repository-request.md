@@ -11,7 +11,7 @@ assignees: ''
 
 Thank you for your interest in hosting your open-source project under the Open Neuromorphic (ONM) GitHub organization.
 
-To ensure our infrastructure remains organized and sustainable, the Executive Committee reviews all requests to verify community alignment and establish clear maintainership. Once approved, this document will be archived in the official ONM registry at `docs/hosted_projects/`.
+To ensure our infrastructure remains organized and sustainable, the Executive Committee (EC) reviews all requests to verify community alignment and establish clear maintainership. Once approved, this document will be archived in the official ONM registry at `docs/hosted_projects/`.
 
 ---
 
@@ -33,7 +33,7 @@ _If it is a fork, please provide the link to the upstream repository._
 ### 🎯 2. Alignment with ONM
 
 **Why should this project be hosted in the Open Neuromorphic organization?**
-_Explain how this project benefits the broader ONM community rather than living in a personal GitHub account. (e.g., It's core infrastructure for the SNN Book, it's a community-maintained tool, etc.)_
+_Explain how this project benefits the broader ONM community rather than living in a personal GitHub account._
 
 
 **Are there existing open-source projects that do this? If so, how does this differ?**
@@ -63,11 +63,13 @@ _Who will maintain this project long-term? How often do you expect it to be upda
 
 ### ⚖️ 4. ONM Repository Agreement
 
-By requesting to host a project under the Open Neuromorphic organization, you agree to the following terms designed to keep our ecosystem healthy:
+By requesting to host a project under the Open Neuromorphic organization, you agree to the following terms:
 
 - [ ] **Open Source License:** I confirm this repository will be published under an open-source license compatible with ONM's [Definition of Open](https://open-neuromorphic.org/about/policies/open-definition/).
-- [ ] **Code of Conduct:** I agree that interactions within this repository (Issues, PRs, Discussions) are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/).
-- [ ] **Archival Policy:** I understand that if this repository is abandoned or drifts from ONM's mission, the Executive Committee reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure.
+- [ ] **Code of Conduct:** I agree that interactions within this repository are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/).
+- [ ] **Funding & Sponsorship:** I understand that any sponsorship, funding, or gifts received in relation to this repository’s activities (e.g., GitHub Sponsors, corporate gifts) must be disclosed to and cleared with the Executive Committee (EC).
+- [ ] **Host Relationship & Non-Exclusivity:** I acknowledge that ONM serves strictly as a repository host. While the project may state "Hosted by Open Neuromorphic," this does not constitute a broader endorsement of all activities carried out, nor does it grant exclusivity over this technical domain. ONM reserves the right to host competing efforts or alternative approaches.
+- [ ] **Archival Policy:** I understand that if this repository is abandoned or drifts entirely from ONM's mission, the EC reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure.
 
 ---
 
