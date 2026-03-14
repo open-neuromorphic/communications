@@ -62,7 +62,7 @@ By requesting to host a project under the Open Neuromorphic organization, you ag
 
 - [ ] **Open Source License:** I confirm this repository will be published under an open-source license compatible with ONM's [Definition of Open](https://open-neuromorphic.org/about/policies/open-definition/).
 - [ ] **Code of Conduct:** I agree that interactions within this repository (Issues, PRs, Discussions) are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/).
--[ ] **Archival Policy:** I understand that if this repository is abandoned or drifts from ONM's mission, the Executive Committee reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure.
+- [ ] **Archival Policy:** I understand that if this repository is abandoned or drifts from ONM's mission, the Executive Committee reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure.
 
 ---
 
