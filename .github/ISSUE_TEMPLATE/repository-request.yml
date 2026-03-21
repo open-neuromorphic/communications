@@ -1,138 +1,141 @@
 name: "📁 Repository Request"
 description: "Request a new repository to be hosted under the Open Neuromorphic GitHub organization."
 title: "[Repo Request]: <Proposed Repository Name>"
-labels: ["repository-request", "pending-review"]
+labels:
+  - "repository-request"
+  - "pending-review"
 body:
-- type: markdown
-  attributes:
-  value: |
-  ### 👋 Welcome to the ONM Repository Request Form!
-  Thank you for your interest in hosting your open-source project under the Open Neuromorphic (ONM) GitHub organization.
+  - type: markdown
+    attributes:
+      value: |
+        ### 👋 Welcome to the ONM Repository Request Form!
+        
+        Thank you for your interest in hosting your open-source project under the Open Neuromorphic (ONM) GitHub organization.
+        
+        To ensure our infrastructure remains organized and sustainable, the Executive Committee (EC) reviews all requests to verify community alignment and establish clear maintainership. Once approved, this document will be archived in the official ONM registry at `docs/hosted_projects/`.
 
-      To ensure our infrastructure remains organized and sustainable, the Executive Committee (EC) reviews all requests to verify community alignment and establish clear maintainership. Once approved, this document will be archived in the official ONM registry at `docs/hosted_projects/`.
+  - type: input
+    id: proposed_repository_name
+    attributes:
+      label: "Proposed Repository Name"
+      placeholder: "e.g., snn-book-jupyter-fork"
+    validations:
+      required: true
 
-- type: input
-  id: repo_name
-  attributes:
-  label: Proposed Repository Name
-  placeholder: "e.g., snn-book-jupyter-fork"
-  validations:
-  required: true
+  - type: textarea
+    id: short_description
+    attributes:
+      label: "Short Description"
+      description: "Provide a brief (1-3 sentences) description of what this repository will contain and its primary purpose."
+    validations:
+      required: true
 
-- type: textarea
-  id: short_description
-  attributes:
-  label: Short Description
-  description: Provide a brief (1-3 sentences) description of what this repository will contain and its primary purpose.
-  validations:
-  required: true
+  - type: textarea
+    id: fork_or_new
+    attributes:
+      label: "Is this a fork of an existing project or a brand-new repository?"
+      description: "If it is a fork, please provide the link to the upstream repository."
+    validations:
+      required: true
 
-- type: textarea
-  id: fork_or_new
-  attributes:
-  label: Is this a fork of an existing project or a brand-new repository?
-  description: If it is a fork, please provide the link to the upstream repository.
-  validations:
-  required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🎯 2. Alignment with ONM
 
-- type: markdown
-  attributes:
-  value: |
-  ---
-  ### 🎯 2. Alignment with ONM
+  - type: textarea
+    id: onm_alignment
+    attributes:
+      label: "Why should this project be hosted in the Open Neuromorphic organization?"
+      description: "Explain how this project benefits the broader ONM community rather than living in a personal GitHub account."
+    validations:
+      required: true
 
-- type: textarea
-  id: onm_alignment
-  attributes:
-  label: Why should this project be hosted in the Open Neuromorphic organization?
-  description: Explain how this project benefits the broader ONM community rather than living in a personal GitHub account.
-  validations:
-  required: true
+  - type: textarea
+    id: existing_projects
+    attributes:
+      label: "Are there existing open-source projects that do this? If so, how does this differ?"
+      description: "Briefly explain the distinction between this project and alternatives."
+    validations:
+      required: true
 
-- type: textarea
-  id: existing_projects
-  attributes:
-  label: Are there existing open-source projects that do this? If so, how does this differ?
-  description: Briefly explain the distinction between this project and alternatives.
-  validations:
-  required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🛠️ 3. Maintainership & Lifecycle
+        *A repository must have at least one dedicated maintainer from the ONM community who is responsible for reviewing PRs, managing access, and updating the code.*
 
-- type: markdown
-  attributes:
-  value: |
-  ---
-  ### 🛠️ 3. Maintainership & Lifecycle
-  *A repository must have at least one dedicated maintainer from the ONM community who is responsible for reviewing PRs, managing access, and updating the code.*
+  - type: input
+    id: primary_maintainers
+    attributes:
+      label: "Primary Maintainer(s)"
+      description: "List the GitHub usernames of the people who will have admin/maintainer access to this repository."
+      placeholder: "@username1, @username2"
+    validations:
+      required: true
 
-- type: input
-  id: maintainers
-  attributes:
-  label: Primary Maintainer(s)
-  description: List the GitHub usernames of the people who will have admin/maintainer access to this repository.
-  placeholder: "@username1, @username2"
-  validations:
-  required: true
+  - type: dropdown
+    id: requires_secrets
+    attributes:
+      label: "Secrets & Security Management"
+      description: "Will this repository require the use of sensitive data in builds, pipelines, or actions?"
+      options:
+        - "No, this repository will not require sensitive credentials."
+        - "Yes, this repository requires sensitive credentials."
+    validations:
+      required: true
 
-- type: dropdown
-  id: requires_secrets
-  attributes:
-  label: Secrets & Security Management
-  description: Will this repository require the use of sensitive data in builds, pipelines, or actions?
-  options:
-  - "No, this repository will not require sensitive credentials."
-  - "Yes, this repository requires sensitive credentials."
-  validations:
-  required: true
+  - type: input
+    id: secret_managers
+    attributes:
+      label: "Secret Managers (If 'Yes' selected above)"
+      description: "List the maintainer(s) explicitly responsible to manage, store, and securely distribute sensitive data (including secrets, certificates, and API keys) used in this repository."
+      placeholder: "@username"
+    validations:
+      required: false
 
-- type: input
-  id: secret_managers
-  attributes:
-  label: Secret Managers (If 'Yes' selected above)
-  description: List the maintainer(s) explicitly responsible to manage, store, and securely distribute sensitive data (including secrets, certificates, and API keys) used in this repository.
-  placeholder: "@username"
-  validations:
-  required: false
+  - type: textarea
+    id: maintenance_plan
+    attributes:
+      label: "Long-Term Maintenance Plan"
+      description: "Who will maintain this project long-term? How often do you expect it to be updated?"
+    validations:
+      required: true
 
-- type: textarea
-  id: maintenance_plan
-  attributes:
-  label: Long-Term Maintenance Plan
-  description: Who will maintain this project long-term? How often do you expect it to be updated?
-  validations:
-  required: true
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### ⚖️ 4. ONM Repository Agreement
+        By requesting to host a project under the Open Neuromorphic organization, you agree to the following terms. **(Please check all to submit)**
 
-- type: markdown
-  attributes:
-  value: |
-  ---
-  ### ⚖️ 4. ONM Repository Agreement
-  By requesting to host a project under the Open Neuromorphic organization, you agree to the following terms. **(Please check all to submit)**
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: "Acknowledgements"
+      options:
+        - label: "**Open Source License:** I confirm this repository will be published under an open-source license compatible with ONM's [Definition of Open](https://open-neuromorphic.org/about/policies/open-definition/)."
+          required: true
+        - label: "**Code of Conduct:** I agree that interactions within this repository are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/)."
+          required: true
+        - label: "**Funding & Sponsorship:** I understand that any sponsorship, funding, or gifts received in relation to this repository’s activities (e.g., GitHub Sponsors, corporate gifts) must be disclosed to and cleared with the Executive Committee (EC)."
+          required: true
+        - label: "**Host Relationship & Non-Exclusivity:** I acknowledge that ONM serves strictly as a repository host. While the project may state 'Hosted by Open Neuromorphic,' this does not constitute a broader endorsement of all activities carried out, nor does it grant exclusivity over this technical domain. ONM reserves the right to host competing efforts or alternative approaches."
+          required: true
+        - label: "**Archival Policy:** I understand that if this repository is abandoned or drifts entirely from ONM's mission, the EC reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure."
+          required: true
 
-- type: checkboxes
-  id: agreements
-  attributes:
-  label: Acknowledgements
-  options:
-  - label: "**Open Source License:** I confirm this repository will be published under an open-source license compatible with ONM's [Definition of Open](https://open-neuromorphic.org/about/policies/open-definition/)."
-  required: true
-  - label: "**Code of Conduct:** I agree that interactions within this repository are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/)."
-  required: true
-  - label: "**Funding & Sponsorship:** I understand that any sponsorship, funding, or gifts received in relation to this repository’s activities (e.g., GitHub Sponsors, corporate gifts) must be disclosed to and cleared with the Executive Committee (EC)."
-  required: true
-  - label: "**Host Relationship & Non-Exclusivity:** I acknowledge that ONM serves strictly as a repository host. While the project may state 'Hosted by Open Neuromorphic,' this does not constitute a broader endorsement of all activities carried out, nor does it grant exclusivity over this technical domain. ONM reserves the right to host competing efforts or alternative approaches."
-  required: true
-  - label: "**Archival Policy:** I understand that if this repository is abandoned or drifts entirely from ONM's mission, the EC reserves the right to make the repository read-only (Public Archive) to prevent stale or unmaintained infrastructure."
-  required: true
-
-- type: markdown
-  attributes:
-  value: |
-  ---
-  *(For Executive Committee use: Copy the checklist below into a comment when reviewing)*
-  ```markdown
-  ### 🛑 EC Review Checklist
-  - [ ] **Reviewed by EC**
-  - [ ] **Maintainers vetted and confirmed**
-  - [ ] **Repository created & permissions granted**
-  - [ ] **Document saved to `docs/hosted_projects/[repo-name].md`**
-  ```
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        *(For Executive Committee use: Copy the checklist below into a comment when reviewing)*
+        ```markdown
+        ### 🛑 EC Review Checklist
+        - [ ] **Reviewed by EC**
+        - [ ] **Maintainers vetted and confirmed**
+        - [ ] **Repository created & permissions granted**
+        - [ ] **Document saved to `docs/hosted_projects/[repo-name].md`**
+        ```
