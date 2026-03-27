@@ -1,7 +1,7 @@
-name: "💬 Discord Infrastructure Request"
+name: "🚀 Discord Infrastructure Request"
 description: "Request a new channel, category, role, bot, or integration for the ONM Discord server."
 title: "[Discord]: <Proposed Name>"
-labels: ["discord-request", "pending-review"]
+  labels:["discord-request", "pending-review"]
 body:
   - type: markdown
     attributes:
@@ -115,7 +115,7 @@ body:
       options:
         - label: "**Code of Conduct & Moderation:** I agree that all interactions within this requested space or facilitated by this requested tool are subject to the ONM [Code of Conduct](https://open-neuromorphic.org/code-of-conduct/). I acknowledge that ONM Community Moderators will observe the channel to address any CoC violations and support the champion(s) in keeping the space safe, functional, and welcoming."
           required: true
-        - label: "**Archival & Governance Policy:** I understand that while ONM enthusiastically welcomes and hosts new community spaces, the Executive Committee (EC) retains ultimate jurisdiction over all server infrastructure. If a hosted channel or integration undergoes a significant change in scope, becomes inactive, or creates an undue administrative/moderation burden, the EC reserves the right to review, merge, or archive the space at its sole discretion."
+        - label: "**Archival & Governance Policy:** I understand that while ONM enthusiastically welcomes new community spaces, the Executive Committee (EC) retains ultimate jurisdiction over all server infrastructure. If a hosted channel or integration undergoes a significant change in scope, becomes inactive, or creates an undue administrative burden, the EC reserves the right to review, merge, or archive the space at its sole discretion. In the spirit of transparency, if unilateral action is taken on an *active* forum (activity within the last 90 days), the EC will publicly communicate its reasoning (e.g., via a GitHub issue or server announcement). For *idle* spaces (no activity within 90 days), reasoning will be provided upon request. Additional terms and conditions may apply to specific requests on a case-by-case basis."
           required: true
         - label: "**Bot Security (If applicable):** I confirm that any requested bot or integration complies with ONM's data privacy standards and will not scrape or monetize community data."
           required: true
@@ -128,7 +128,7 @@ body:
         ---
         *(For Executive Committee & Moderation Team use: Copy the checklist below into a comment when reviewing)*
         ```markdown
-        ### 🛑 EC / Mod Review Checklist
+        ### ✅ EC / Mod Review Checklist
         - [ ] **Community need & champion vetted**
         - [ ] **Infrastructure created & permissions granted**
         - [ ] **(If Bot/Integration) Security & Privacy verified**
