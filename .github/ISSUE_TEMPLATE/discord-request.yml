@@ -1,7 +1,7 @@
 name: "🚀 Discord Infrastructure Request"
 description: "Request a new channel, category, role, bot, or integration for the ONM Discord server."
 title: "[Discord]: <Proposed Name>"
-  labels:["discord-request", "pending-review"]
+labels: ["discord-request", "pending-review"]
 body:
   - type: markdown
     attributes:
