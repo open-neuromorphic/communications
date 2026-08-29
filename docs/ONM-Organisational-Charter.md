@@ -66,6 +66,8 @@ Decisions involving structure, major partnerships, or long-term initiatives requ
 
 * **Approval threshold**: Simple majority of valid votes cast, unless otherwise specified.
 
+Any ONM Voting Members serving on the Core Leadership Team shall temporarily suspend their general member voting privileges for the duration of their term on the Committee. Standard voting privileges are fully restored upon the conclusion of their leadership service.
+
 ## Elections and Terms
 
 Elections to the core leadership team occur **every year**, typically at a GM or via an online voting process. Members may nominate themselves or others. All active members are eligible to vote, and results are determined by simple majority.
@@ -108,7 +110,7 @@ ONM maintains a Code of Conduct that outlines expectations for respectful partic
 
 ## Adoption of the Charter
 
-This charter was adopted on \[Insert Date\] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
+This charter was adopted on [Insert Date] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
 
 **Signed:**
 
