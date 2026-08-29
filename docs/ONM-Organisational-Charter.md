@@ -108,12 +108,12 @@ ONM maintains a Code of Conduct that outlines expectations for respectful partic
 
 ## Adoption of the Charter
 
-This charter was adopted on \[Insert Date\] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
+This charter was adopted to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
 
 **Signed:**
 
-Jens E. Pedersen (Chair)
+Justin Riddiough
 
-Justin Riddiough (Vice-Chair)
+Alexandre Marcireau
 
-Danny Rosen (Secretary)
+Effiong Blessing
