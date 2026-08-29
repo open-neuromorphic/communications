@@ -74,6 +74,8 @@ Each elected officer begins a new one-year term upon confirmation. There are no 
 
 If a majority of the Core Leadership Team believes that an officer is no longer actively participating in ONM, they may initiate a re-evaluation process. This entails calling for a new election for that officer’s role, which will be conducted using the standard nomination and voting procedures.
 
+Any dispute arising within the Core Leadership Team that remains unresolved after reasonable deliberation shall be referred to the active Membership body for a decisive vote within 14 days, provided at least two of the three officers vote to initiate the escalation.
+
 ## General Meeting (GM)
 
 A GM is held at least once per year and includes:
@@ -108,7 +110,7 @@ ONM maintains a Code of Conduct that outlines expectations for respectful partic
 
 ## Adoption of the Charter
 
-This charter was adopted on \[Insert Date\] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
+This charter was adopted on [Insert Date] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
 
 **Signed:**
 
