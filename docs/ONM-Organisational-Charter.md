@@ -70,7 +70,7 @@ Decisions involving structure, major partnerships, or long-term initiatives requ
 
 Elections to the core leadership team occur **every year**, typically at a GM or via an online voting process. Members may nominate themselves or others. All active members are eligible to vote, and results are determined by simple majority.
 
-Each elected officer begins a new one-year term upon confirmation. There are no term limits, but re-election is required.
+Each elected officer begins a new one-year term upon confirmation. An Executive Committee officer cannot hold the same leadership position continually for more than one consecutive year.
 
 If a majority of the Core Leadership Team believes that an officer is no longer actively participating in ONM, they may initiate a re-evaluation process. This entails calling for a new election for that officer’s role, which will be conducted using the standard nomination and voting procedures.
 
@@ -108,7 +108,7 @@ ONM maintains a Code of Conduct that outlines expectations for respectful partic
 
 ## Adoption of the Charter
 
-This charter was adopted on \[Insert Date\] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
+This charter was adopted on [Insert Date] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
 
 **Signed:**
 
