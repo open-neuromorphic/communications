@@ -26,7 +26,7 @@ ONM is led by a **Core Leadership Team** composed of three officers:
 
 * **Secretary**: Maintains records, documents meetings, manages internal communication, and facilitates elections and administrative processes.
 
-Each officer serves a **1-year term**, with new elections taking place at the conclusion of each term. Officers may be re-elected.
+Each officer serves a **1-year term**, with new elections taking place at the conclusion of each term. Officers may be re-elected. Officers are elected from the ONM Voting Members.
 
 ## Membership
 
@@ -34,7 +34,7 @@ Membership in Open Neuromorphic (ONM) is open to all individuals who support its
 
 #### **Membership Admission**
 
-Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Secretary coordinates an **informal vote via email** among active members where a **majority vote determines who is invited as members**. The Secretary is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
+Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Secretary coordinates an **informal vote via email** among ONM Voting Members where a **majority vote determines who is invited as members**. The Secretary is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
 
 #### **Active Membership Requirements**
 
@@ -108,7 +108,7 @@ ONM maintains a Code of Conduct that outlines expectations for respectful partic
 
 ## Adoption of the Charter
 
-This charter was adopted on \[Insert Date\] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
+This charter was adopted on [Insert Date] to formalise the structure and guiding principles of Open Neuromorphic. It reflects our commitment to an open, dynamic, and inclusive community.
 
 **Signed:**
 
