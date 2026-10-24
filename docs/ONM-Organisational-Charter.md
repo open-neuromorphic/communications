@@ -16,17 +16,23 @@ ONM exists to:
 
 * Facilitate grassroots involvement across technical and non-technical roles.
 
+ONM operates as a non-profit organization and surplus cannot be distributed to members, officers, or external parties. Any surplus revenue shall be reserved for future operations or reinvested in activities aligned with the purpose of ONM.
+
+Core ONM resources, including software, documentation, datasets, and educational materials, shall remain freely accessible under [open-source licenses](https://github.com/open-neuromorphic/communications/blob/main/docs/policies/open-definition.md). Community infrastructure managed by ONM (websites, communication platforms, repositories, etc.) shall be available to all participants and initiatives aligned with the purpose of ONM without access fees. Resource allocation decisions shall be based on mission alignment, community benefit, and operational capacity, not on commercial funding or ability to pay.
+
 ## Governance Structure
 
 ONM is led by a **Core Leadership Team** composed of three officers:
 
-* **Chair**: Leads ONM, represents it externally, coordinates activities, and sets the agenda for the General Meetings (GM).
+* **Governance Chair**: Leads ONM, represents it externally, coordinates activities, and sets the agenda for the General Meetings (GM).
 
-* **Vice-Chair**: Supports the Chair in strategic planning, steps in when the Chair is unavailable, and contributes to the community’s technical direction.
+* **Technical Chair**: Leads ONM, supports the Governance Chair in strategic planning, steps in when the Governance Chair is unavailable, and contributes to the community’s technical direction.
 
-* **Secretary**: Maintains records, documents meetings, manages internal communication, and facilitates elections and administrative processes.
+* **Operations Chair**: Leads ONM, maintains records, documents meetings, manages internal communication, and facilitates elections and administrative processes.
 
 Each officer serves a **1-year term**, with new elections taking place at the conclusion of each term. Officers may be re-elected.
+
+The three office positions (and any subsequent ones) in the Core Leadership Team will be **unpaid** in perpetuity, with **no remunerations, gifts, hospitality, or other benefits** permitted for serving on the Executive Committee. These positions are purely voluntary and honorary, and the office holders will be rewarded solely with the recognition of their service.
 
 ## Membership
 
@@ -34,7 +40,7 @@ Membership in Open Neuromorphic (ONM) is open to all individuals who support its
 
 #### **Membership Admission**
 
-Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Secretary coordinates an **informal vote via email** among active members where a **majority vote determines who is invited as members**. The Secretary is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
+Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Operations Chair coordinates an **informal vote via email** among active members where a **majority vote determines who is invited as members**. The Operations Chair is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
 
 #### **Active Membership Requirements**
 
@@ -44,15 +50,15 @@ To remain in good standing, members must:
 
 * Submit a written contribution to the Annual Report at least once every 2 years (e.g., project updates, event summaries, reflections, proposals).
 
-Members who fail to meet either requirement are placed on **probation**. If no activity is recorded within a **3-year period**, the member is considered **inactive** and removed from the membership roll. The Secretary notifies probationary members in their final year of inactivity.
+Members who fail to meet either requirement are placed on **probation**. If no activity is recorded within a **3-year period**, the member is considered **inactive** and removed from the membership roll. The Operations Chair notifies probationary members in their final year of inactivity.
 
-The Secretary maintains and publishes the official membership roll, including attendance and participation records.
+The Operations Chair maintains and publishes the official membership roll, including attendance and participation records.
 
 ## Decision-Making Process
 
 #### **Operational Decisions**
 
-Handled by the Chair, in consultation with the Vice-Chair and Secretary.
+Collaboratively handled by the Governance Chair, Technical Chair, and Operations Chair.
 
 #### **Strategic Decisions**
 
@@ -74,11 +80,13 @@ Each elected officer begins a new one-year term upon confirmation. There are no 
 
 If a majority of the Core Leadership Team believes that an officer is no longer actively participating in ONM, they may initiate a re-evaluation process. This entails calling for a new election for that officer’s role, which will be conducted using the standard nomination and voting procedures.
 
+Any dispute arising within the Core Leadership Team that remains unresolved after reasonable deliberation shall be referred to the active Membership body for a decisive vote within 14 days, provided at least two of the three officers vote to initiate the escalation.
+
 ## General Meeting (GM)
 
 A GM is held at least once per year and includes:
 
-* Reports from the Chair and Secretary.
+* Reports from the Core Leadership Team.
 
 * Community updates and planning.
 
