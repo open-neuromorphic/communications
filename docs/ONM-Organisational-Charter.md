@@ -20,11 +20,11 @@ ONM exists to:
 
 ONM is led by a **Core Leadership Team** composed of three officers:
 
-* **Chair**: Leads ONM, represents it externally, coordinates activities, and sets the agenda for the General Meetings (GM).
+* **Governance Chair**: Leads ONM, represents it externally, coordinates activities, and sets the agenda for the General Meetings (GM).
 
-* **Vice-Chair**: Supports the Chair in strategic planning, steps in when the Chair is unavailable, and contributes to the community’s technical direction.
+* **Technical Chair**: Leads ONM, supports the Governance Chair in strategic planning, steps in when the Governance Chair is unavailable, and contributes to the community’s technical direction.
 
-* **Secretary**: Maintains records, documents meetings, manages internal communication, and facilitates elections and administrative processes.
+* **Operations Chair**: Leads ONM, maintains records, documents meetings, manages internal communication, and facilitates elections and administrative processes.
 
 Each officer serves a **1-year term**, with new elections taking place at the conclusion of each term. Officers may be re-elected.
 
@@ -34,7 +34,7 @@ Membership in Open Neuromorphic (ONM) is open to all individuals who support its
 
 #### **Membership Admission**
 
-Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Secretary coordinates an **informal vote via email** among active members where a **majority vote determines who is invited as members**. The Secretary is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
+Prospective members must be **nominated by an existing member** or may **self-nominate** by submitting a brief expression of interest. The Operations Chair coordinates an **informal vote via email** among active members where a **majority vote determines who is invited as members**. The Operations Chair is responsible for collecting nominations, facilitating the email vote, and presenting the list of prospective members at the GM.
 
 #### **Active Membership Requirements**
 
@@ -44,15 +44,15 @@ To remain in good standing, members must:
 
 * Submit a written contribution to the Annual Report at least once every 2 years (e.g., project updates, event summaries, reflections, proposals).
 
-Members who fail to meet either requirement are placed on **probation**. If no activity is recorded within a **3-year period**, the member is considered **inactive** and removed from the membership roll. The Secretary notifies probationary members in their final year of inactivity.
+Members who fail to meet either requirement are placed on **probation**. If no activity is recorded within a **3-year period**, the member is considered **inactive** and removed from the membership roll. The Operations Chair notifies probationary members in their final year of inactivity.
 
-The Secretary maintains and publishes the official membership roll, including attendance and participation records.
+The Operations Chair maintains and publishes the official membership roll, including attendance and participation records.
 
 ## Decision-Making Process
 
 #### **Operational Decisions**
 
-Handled by the Chair, in consultation with the Vice-Chair and Secretary.
+Collaboratively handled by the Governance Chair, Technical Chair, and Operations Chair.
 
 #### **Strategic Decisions**
 
@@ -78,7 +78,7 @@ If a majority of the Core Leadership Team believes that an officer is no longer 
 
 A GM is held at least once per year and includes:
 
-* Reports from the Chair and Secretary.
+* Reports from the Core Leadership Team.
 
 * Community updates and planning.
 
